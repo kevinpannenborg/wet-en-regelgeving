@@ -1,0 +1,43 @@
+# Project information
+site_name: Springbank - Wet- en regelgeving
+site_url: 'https://wetboek.srp-fivem.nl/'
+site_description: 'Wet en regelgeving van Springbank Roleplay'
+site_author: 'Springbank Roleplay'
+
+# Copyright
+copyright: Copyright &copy; 2022 - 2023 Springbank
+
+# Congiguration
+theme:
+  name: material
+#   features:
+#     - navigation.tabs
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  custom_dir: docs/overrides
+  language: nl
+plugins:
+  - git-revision-date-localized:
+      type: timeago
+      time_zone: Europe/Amsterdam
+      locale: nl
+      fallback_to_build_date: false
+  - search:
+      lang: nl
+markdown_extensions:
+  - admonition
+  - attr_list
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+  - javascripts/tables.js
+nav:
+  - Home: index.md
+  - Algemene Plaatselijke Verordening: apv.md
+  - Wetboek: wetboek.md
