@@ -19,7 +19,6 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-  custom_dir: docs/overrides
   language: nl
 plugins:
   - search:
