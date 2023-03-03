@@ -10,8 +10,6 @@ copyright: Copyright &copy; 2022 - 2023 Springbank
 # Congiguration
 theme:
   name: material
-#   features:
-#     - navigation.tabs
   palette:
     - scheme: default
       toggle:
@@ -24,11 +22,6 @@ theme:
   custom_dir: docs/overrides
   language: nl
 plugins:
-  - git-revision-date-localized:
-      type: timeago
-      time_zone: Europe/Amsterdam
-      locale: nl
-      fallback_to_build_date: false
   - search:
       lang: nl
 markdown_extensions:
