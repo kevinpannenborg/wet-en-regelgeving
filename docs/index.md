@@ -11,5 +11,4 @@ De volgende documenten worden behandeld op deze website:
 - De discord regels zijn opgesteld om voor iedereen een veilige omgeving te creeren op onze Discord servers.
 - De overige documenten zijn van toepassing op verschillende in-game zaken, zoals voertuigeisen en dergelijke.
 
-[^1]:
-    Bron: github.com/Tedeapolis/wet-en-regelgeving
+<sub><sup>Bron: github.com/Tedeapolis/wet-en-regelgeving</sup></sub>
