@@ -135,6 +135,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 	* Indien er een vuurwapen op je gericht binnen 50 meter wordt er verwacht dat je blijft staan en werk je mee.
 	* Terwijl je onder schot staat is het niet de bedoeling dat je deze benadert op welke manier dan ook. Er wordt verwacht dat je meewerkt en waarde hecht aan je leven.
 	* Met een helikopter en/of vliegtuig vlak boven de grond vliegen of tussen gebouwen door
+	* Het is niet toegestaan om weerstand te bieden tegen een slag- of steekwapen wanneer deze binnen een meter van jou is. Buiten een meter is het wel toegestaan om een vuurwapen te trekken.
 	* Het valt niet onder no value of life als je een vuurwapen trekt terwijl je bedreigd wordt met een steek- of slagwapen.
 	* Het valt niet onder no value of life indien je met een slag- of steekwapen bedreigd wordt terwijl je jezelf in een voertuig met gesloten ramen en deuren bevind.
 	* Schieten op iemand die een een vuur- of steekwapen heeft gericht op iemands hoofd, keel of andere vitale lichaamsdelen.
@@ -232,8 +233,8 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 
 1. Het is niet toegestaan om aanstootgevende teksten te plaatsen of uit te spreken op welke mogelijke manier dan ook.
 2. Enkele voorbeelden hiervan zijn maar niet beperkt tot:
-	* Schelden met hedendaagse ziektes
-	* Racistische of discriminerende opmerkingen
+	* Schelden met hedendaagse ziektes (7 dagen ban)
+	* Racistische of discriminerende opmerkingen (30 dagen ban)
 	* Seksuele opmerkingen
 	* Andere ongepaste opmerkingen
 	* Toxic, uitlokkend of haatzaaiende opmerkingen
