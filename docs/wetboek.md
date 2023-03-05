@@ -1,22 +1,11 @@
 # Wetboek Springbank
 
-## Wetstechnische informatie
-
-| | |
-|---|---|
-| Overheidsorganisatie      | Hoge Raad Springbank |
-| Officiële naam            | Algemeen Wetboek Springbank |
-| Citeertitel               | Wetboek Springbank |
-| Vastgesteld door          | De Hoge Raad|
-| Onderwerp                 | Openbare orde en veiligheid |
-
 ## Algemene Bepalingen
 
-### A1 - Reikwijdte
+### A1 - Toepassing
 
-1. Het Wetboek Springbank (verder aangeduid als WSRP) is leidend voor alle beschreven gevallen, waarbij als aanvulling het Nederlands Recht van toepassing is.
-2. Het WSRP heeft betrekking op het vaste land, de gemeente, en de stad Springbank.
-3. Het WSRP is nauw verweven met de Algemene Plaatselijke Verordening Springbank (APV). De APV dient echter als een indicerend kader voor eventuele bestraffing in-game (“in RP”) en is verder bedoeld voor het afhandelen van straffen buiten de RP om.
+1. Het wetboek van Springbank is van toepassing op het gehele grondgebied van de stad Springbank.
+2. Aanvullend op alle beschreven gevallen in dit wetboek is het Nederlands recht van toepassing.
 
 ### A2 - Geldigheid
 
@@ -26,53 +15,31 @@
 
 ### A3 - Verjaring van het strafbaar feit
 
-1. Het recht tot strafvordering vervalt door verjaring:
-    * Voor misdrijven waar de totale strafeis tussen de 1 en 100 maanden bedroeg, verjaren deze feiten na 10 dagen;
-    * Voor misdrijven waar de totale strafeis tussen de 101 en 150 maanden maanden bedroeg, verjaren deze feiten na 15 dagen;
-    * Voor misdrijven waar de totale strafeis tussen de 151 en 250 maanden bedroeg, verjaren deze feiten na 30 dagen;
-    * Voor misdrijven waar de totale strafeis meer dan 250 maanden bedroeg, verjaren deze feiten na 45 dagen;
+1. Strafbare feiten verjaren na een periode van 30 dagen.
 
 ### A4 - Strafbepaling
 
 1. Straffen zijn vastgesteld en opgenomen per artikel. Hieronder vallen:
-    * Waarschuwingen
+    * Officiele waarschuwingen
     * Taakstraffen
-    * Celstraffen
-    * rijontzeggingen
-    * inbeslagnames of invorderingen
-    * Boetes
-2. Een opgelegde straf kan een combinatie zijn van de bovenstaande strafvormen.
-3. Een opgelegde straf is nooit hoger dan de vastgestelde waarden.
-4. Een straf kan wel verhoogd worden door het stapelen van overtredingen.
+    * Gevangenisstraffen
+    * Inbeslagnames
+    * Geldboetes
+2. Een opgelegde straf is nooit hoger dan de vastgestelde waarden.
+3. Een straf kan wel verhoogd worden door het stapelen van overtredingen.
 5. Indien er sprake is van meerdere slachtoffers van een geweldsdelict, dan wordt er voor elk extra slachtoffer 25% van de oorspronkelijke straf bij de uiteindelijke straf toegevoegd. Bij 2 slachtoffers zal er dus sprake zijn van een strafverhoging van 25% van de normale strafmaat, en zo verder.
 6. Indien er sprake is van meermaals gepleegde exact dezelfde strafbare feiten waarbij er sprake is van andere omstandigheden, dan wordt er voor elk extra delict 50% van de oorspronkelijke straf van het delict toegevoegd bij de totaalstraf.
-7. Er geldt een maximumcelstraf van 400 maanden. Als er volgens het wetboek meer dan 400 maanden aan de verdachte opgelegd (mogen) worden, dan wordt de boete verhoogd. De boete wordt verhoogd met 500 euro per extra maand boven de 400 maanden.
+7. Er geldt een maximumcelstraf van 120 maanden. Als er volgens het wetboek meer dan 120 maanden aan de verdachte opgelegd (mogen) worden, dan wordt de boete verhoogd. De boete wordt verhoogd met 250 euro per extra maand boven de 120 maanden.
 8. Een straf kan ook verlaagd worden door verzachtende omstandigheden.
 9. Een straf kan geheel of gedeeltelijk kwijtgescholden worden op basis van uitsluitingsgronden.
 
-### A5 - Strafblad
-
-1. Straffen die enige vorm van celstraf bevatten kunnen leiden tot een strafblad.
-2. Een strafblad blijft staan voor een periode van 2 (realtime) maanden voor alle geweldsdelicten met celstraf, en 1 maand voor alle overige delicten met celstraf, ingaand op de datum van de opgelegde straf.
-3. Wanneer een nieuwe overtreding of een misdrijf wordt begaan, wordt de resterende tijd gereset naar de datum van de laatst opgelegde celstraf. Dit geldt enkel als het nieuwe strafblad langer blijft staan dan het huidige strafblad.
-
-### A6 - Verduidelijking en algemene aanvulling
-
-1. Onder goederen kan worden verstaan alles wat tussen twee personen kan worden uitgewisseld
-    1. Hieronder valt, onder andere, alles wat in de inventaris gevonden kan worden, alsmede voertuigen
-2. Onderzoek, tenzij expliciet anders aangegeven, duurt in de regel maximaal twee (2) dagen.
-    2. Als na deze termijn geen conclusie is getrokken of getrokken kan worden, is de Overheid verplicht tot het retourneren van de onderzochte goederen.
-3. Zij, die in dienst van de Overheid, genoodzaakt zijn een actie uit te voeren welke volgens de wet verboden is, kunnen vanwege het noodzakelijk aspect, binnen de contouren van hun functie, niet aangeklaagd worden als zijnde in overtreding van de wet.
-    3. Bovenstaande ontslaat ambtenaren in dienst van de Overheid niet van alle overige rechtsvervolging.
-4. Strafbare feiten zijn overtredingen en misdrijven. Hieronder vallen ook misdrijven en overtredingen uit het Wetboek van Strafrecht van Nederland.
-
-### A7 - Inbeslagname
+### A5 - Inbeslagnames en invorderingen
 
 1. Wanneer een strafbaar feit gepleegd is met een goed, of wanneer een goed uit een strafbaar feit is verkregen, kan deze in beslag worden genomen.
-    1. De keuze voor inbeslagname is ter beoordeling van Politie en/of de Koninklijke Marechaussee.
+    1. De keuze voor inbeslagname is ter beoordeling van de politie.
     2. Verwerking van de in beslag genomen goederen (behalve voertuigen) geschiedt volgens richtlijn van Politie;
 2. Wanneer een voertuig in beslag wordt genomen vanwege een strafbaar feit:
-    1. Kan deze maximaal drie (3) dagen worden vastgehouden voor onderzoek, in deze 3 dagen heeft de Politie en/ of Koninklijke Marechaussee de tijd om	de bewijzen te verzamelen en beschikbaar te stellen;
+    1. Kan deze maximaal drie (3) dagen worden vastgehouden voor onderzoek, in deze 3 dagen heeft de politie de tijd om	de bewijzen te verzamelen en beschikbaar te stellen;
     2. Zal deze, nadat bewijsbaar is aangetoond dat het voertuig onderdeel was van een strafbaar feit, uitgekocht kunnen worden op basis van de ernst van het strafbaar feit, 24 uur nadat de inbeslagname is geregistreerd in de politiesystemen;
     3. Zal deze, wanneer, met inachtneming van de vorige regel, het voertuig tevens uit het water moest worden gehaald, uitgekocht kunnen worden op toevoeging van 10% op het basisuitkooppercentage;
     4. Zal deze kosteloos worden teruggegeven als er na 3 dagen tijd niet voldoende bewijs is voor de inbeslagname, als een advocaat op de 3e dag pas de hOvj/Ovj benaderd, heeft de hOvj/Ovj het recht om een extra 48 uur te nemen voor extra bewijs op te vragen als dat er zou zijn.
@@ -80,12 +47,12 @@
     6. Wanneer het goed bewijsbaar onderdeel was van het strafbare feit en de eigenaar daarvan overleden is, dan zal het voertuig ook uitgekocht moeten worden volgens de standaardregels.
     7. Wanneer een advocaat een hOvj of Ovj inschakeld heeft deze altijd het recht om 48 uur de tijd te krijgen om bewijs op te vragen vanaf het moment dat hij of zij ingeschakeld wordt. Deze 48 uur kunnen dus ook het maximum van 3 dagen/ 72 uur verlengen als de hOvj of Ovj pas op de 3e dag wordt ingeschakeld. Indien de officier op de 1ste dag wordt ingeschakeld, dan is lid a leidend en mag deze 48 uur niet gebruikt worden om de maximum duur van 3 dagen te verlengen.
     8. Er kan alleen in beroep gegaan worden tegen een inbeslagname door middel van een advocaat. Het voertuig kan er alleen uitgehaald worden als er een advocaat betrokken is, of d.m.v. het klachtenformulier.
-    9. Uitzonderingsgrond voor teruggave van het voertuig is, indien het een voertuig betreft zoals omschreven in Artikel III-14 Illegale voertuigen of indien een voertuig voor de vierde keer in beslag wordt genomen. In dit geval zal het voertuig worden vernietigd of verkocht. Ook voertuigen die langer dan veertien (14) dagen in de opslag staan, zullen worden vernietigd of verkocht. Dit laatste geldt niet indien er bezwaar is aangetekend via het klachtenformulier van de politie of koninklijke marechaussee.
+    9. Uitzonderingsgrond voor teruggave van het voertuig is, indien het een voertuig betreft zoals omschreven in Artikel III-14 Illegale voertuigen of indien een voertuig voor de vierde keer in beslag wordt genomen. In dit geval zal het voertuig worden vernietigd of verkocht. Ook voertuigen die langer dan veertien (14) dagen in de opslag staan, zullen worden vernietigd of verkocht. Dit laatste geldt niet indien er bezwaar is aangetekend via het klachtenformulier van de politie
 3. Geldige redenen voor inbeslagname zijn:
     1. Plegen van een strafbaar feit uit het wetboek van Springbank waarbij het goed direct of indirect betrokken is, behalve fout parkeren en een snelheidsovertreding met uitzondering zoals beschreven in lid E van dit artikel;
     2. Plegen van een misdrijf uit de Nederlandse wetgeving waarbij het goed direct of indirect betrokken is;
     3. Niet stoppen voor stopteken gegeven door middel van een politietransparant of rode lamp;
-    4. Niet voldoen aan (verkeers)aanwijzing van bevoegde en als zodanig kenbare opsporingsambtenaar of lid van de Koninklijke Luchtmacht;
+    4. Niet voldoen aan (verkeers)aanwijzing van bevoegde en als zodanig kenbare opsporingsambtenaar;
     5. Snelheidsovertreding van meer dan 100% van de maximumsnelheid;
     6. Op de openbare weg rijden met een voertuig met daarop een WOK-status.
 4. Er geldt een basisuitkooppercentage van 10% indien er sprake is van een verkeersdelict.
@@ -93,16 +60,8 @@
 6. Alle bovenstaande leden gelden ook voor helikopters en vliegtuigen.
 7. Meerdere notities voor het vliegen zonder vliegbrevet zal resulteren in een inbeslagname van het voertuig.
 
-### A8 - Openstaande boetes
 
-1. Wanneer tijdens een controle of aanhouding aangetoond wordt dat het totaalbedrag van openstaande boetes boven de € 10000,- reikt, kan dit impact hebben op de strafeis.
-    1. Wanneer dit aangetoond wordt bij het opvragen van een inbeslaggenomen goed of voertuig kan geëist worden eerst het boetebedrag te voldoen;
-    2. Wanneer dit aangetoond wordt tijdens onderzoek volgende op een misdrijf of crimineel feit kan hiervoor een boete of taakstraf worden opgelegd;
-    3. De hoogte van deze boete of taakstraf is ter beoordeling van de Officier van Dienst.
-    4. Deze boete of taakstraf wordt bijgevoegd bij de totale straf eis.
-2. Onder het voldoen van het boetebedrag wordt verstaan tenminste een zodanige betaling te voldoen dat het totale boetebedrag onder de € 10000,- komt.
-
-### A9 - Consultatierecht
+### A6 - Consultatierecht
 
 1. Krachtens artikel 6 van het Europees Verdrag voor de Rechten van de Mens is het een verdachte, voorafgaand aan een politieverhoor, toegestaan consultatie te ontvangen van zijn of haar voorkeursadvocaat.
 2. Indien de voorkeursadvocaat genoemd in lid 1 niet beschikbaar is, is een vervangend advocaat afdoende om te voldoen aan dit recht.
@@ -110,7 +69,7 @@
 4. Indien de oproep zoals genoemd in lid 3 niet mogelijk blijkt, of de verdachte weigert een advocaat op te roepen, dan is de politie verplicht tot het oproepen van een advocaat voor de verdachte;
 5. Uitsluitingsgrond voor lid 4 is wanneer verdachte expliciet en ondubbelzinnig afziet van zijn of haar recht tot consultatie.
 
-### A10 - Algemene rechtsbeginselen
+### A7 - Algemene rechtsbeginselen
 
 1. De algemene rechtsbeginselen stellen eisen en scheppen kaders aan beleid of regelgeving. Beleid of regelgeving dat onvoldoende aansluit op algemene rechtsbeginselen kan onderhevig zijn aan uitsluiting of verwerping.
 2. Onder de algemene rechtsbeginselen wordt verstaan:
@@ -126,7 +85,7 @@
     10. Ne bis in idem, waarbij iemand niet tweemaal veroordeeld mag worden voor hetzelfde feit;
     11. Het schutznorm-beginsel, waarbij er geen rechtsgevolg of sanctie wordt gekoppeld aan een vormfout als de verdachte niet zelf is getroffen in een (verdedigings)belang dat door het geschonden vormvoorschrift wordt beschermd.
 
-### A11 - Medeplichtigheid en medeplegen
+### A8 - Medeplichtigheid en medeplegen
 
 1. Als medeplichtigen van een strafbaar feit worden gestraft:
     1. zij die opzettelijk behulpzaam zijn bij het plegen van het misdrijf;
@@ -141,7 +100,7 @@
 6. Daders en medeplichtigen van een strafbaar feit worden gestraft volgens de strafbepaling van het desbetreffende artikel.
 7. Indien er onduidelijkheid is over medeplegen of medeplichtigheid tijdens een strafzaak dan kan een Hulpofficier van Justitie, Officier van Justitie of in uiterste gevallen een rechter hierover een eindoordeel vellen.
 
-### A12 - Voorhechtenis
+### A9 - Voorhechtenis
 1. Voorhechtenis is alleen toegestaan voor feiten waar een celstraf op staat.
 2. Voorhechtenis kan alleen gegeven worden indien er wettig overtuigend bewijs is dat de verdachte een strafbaar feit heeft begaan.
 3. De maximale periode van de voorhechtenis is 24 uur. Dit kan maximaal verlengt worden tot 72 uur voorarrest door een hOvJ.
@@ -241,9 +200,9 @@
 
 ### Artikel I-9 Geldige verklaring herkomst contanten (321 SR)
 
-1. Wanneer er tijdens aanhouding van een persoon door Politie of Koninklijke Marechaussee een geldbedrag, hoger dan € 15000,- aan contanten aangetroffen wordt bij die persoon, zal er om geldige verklaring van herkomst gevraagd worden.
-2. Wanneer deze verklaring niet bewijsbaar of redelijkerwijs aannemelijk is, dan heeft de Politie of Koninklijke Marechaussee de bevoegdheid dit bedrag in beslag te nemen voor onderzoek.
-3. Wanneer uit onderzoek blijkt, volgend op de inbeslagname zoals bedoeld in lid 2, geen criminele herkomst kan aantonen, dan is de Politie of Koninklijke Marechaussee gemaand tot restitutie.
+1. Wanneer er tijdens aanhouding van een persoon door Politie een geldbedrag, hoger dan € 15000,- aan contanten aangetroffen wordt bij die persoon, zal er om geldige verklaring van herkomst gevraagd worden.
+2. Wanneer deze verklaring niet bewijsbaar of redelijkerwijs aannemelijk is, dan heeft de Politie de bevoegdheid dit bedrag in beslag te nemen voor onderzoek.
+3. Wanneer uit onderzoek blijkt, volgend op de inbeslagname zoals bedoeld in lid 2, geen criminele herkomst kan aantonen, dan is de Politie gemaand tot restitutie.
 4. Wanneer uit onderzoek blijkt, volgend op de inbeslagname zoals bedoeld in lid 2, criminele herkomst aantoont, dan zal de in beslag genomen som vernietigd worden.
 
 ## Titel II - Geweldsdelicten
@@ -509,40 +468,6 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 5. Voor snelheidsovertredingen die de bovenstaande snelheden overschreiden kan de agent overgaan tot arrestatie en strafvervolging.
 6. De meetcorrectie is 5 kilometer en de eerste 5 kilometer te hard rijden blijft onbestraft.
 
-| ***`Binnen de Bebouwde Kom`***  |   |
-|---|---|
-| Te hard rijden 6 - 10KM/H | € 100,- |
-| Te hard rijden 10 - 20KM/H | € 400,- |
-| Te hard rijden 21 - 30KM/H | € 1000,- |
-| Te hard rijden 31 - 40KM/H | € 2000,- |
-| Te hard rijden 41 - 50KM/H | € 3000,- |
-| Te hard rijden 51 - 60KM/H | € 4000,- |
-| Te hard rijden 61 - 70KM/H | € 5000,- |
-| Te hard rijden 71 - 80KM/H | € 6000,- |
-| Te hard rijden 81 - 90KM/H | € 7000,- |
-| Te hard rijden 91 - 100KM/H | € 8000,- |
-| Te hard rijden 101 - 125 KM/H | € 10000,- |
-| Te hard rijden 126 - 150 KM/H | € 12500,- |
-| Te hard rijden 150+ KM/H | € 15000,- |
-
-| ***`Buiten de Bebouwde Kom`***  |   |
-|---|---|
-| Te hard rijden 6 - 10KM/H | € 100,- |
-| Te hard rijden 10 - 20KM/H | € 300,- |
-| Te hard rijden 21 - 30KM/H | € 700,- |
-| Te hard rijden 31 - 40KM/H | € 1000,- |
-| Te hard rijden 41 - 50KM/H | € 1500,- |
-| Te hard rijden 51 - 60KM/H | € 2000,- |
-| Te hard rijden 61 - 70KM/H | € 2500,- |
-| Te hard rijden 71 - 80KM/H | € 3000,- |
-| Te hard rijden 81 - 90KM/H | € 3500,- |
-| Te hard rijden 91 - 100KM/H | € 4000,- |
-| Te hard rijden 101 - 125 KM/H | € 5000,- |
-| Te hard rijden 126 - 150 KM/H | € 7000,- |
-| Te hard rijden 151 - 175 KM/H | € 9000,- |
-| Te hard rijden 176 - 200 KM/H | € 11000,- |
-| Te hard rijden 200+ KM/H | € 15000,- |
-
 ### Artikel III-12 Voertuigeisen
 
 1. Het voertuig, uitgezonderd fietsen, heeft 1 of meer nummerplaten, als dit niet mogelijk is moet de bestuurder in het bezit zijn van een geldig bewijs in vorm van een document als ontheffing daarvoor.
@@ -557,9 +482,9 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 #### Strafbepalingen Voertuigeisen
 
 1. Schuldig is een persoon van wie zijn of haar voertuig niet voldoet aan de bovenstaande eisen.
-2. Indien een bestuurder in een voertuig met een WOK-status deelneemt aan het verkeer, en de Politie of Koninklijke Marechaussee de bestuurder voor de eerste of tweede keer staande houdt, dan zal dit worden gezien als een misdrijf. Dit wordt bestraft met een inbeslagname van het desbetreffende voertuig.
+2. Indien een bestuurder in een voertuig met een WOK-status deelneemt aan het verkeer, en de Politie de bestuurder voor de eerste of tweede keer staande houdt, dan zal dit worden gezien als een misdrijf. Dit wordt bestraft met een inbeslagname van het desbetreffende voertuig.
 3. Wordt een bestuurder bij een derde keer of vaker staande gehouden, zal de sanctie van een inbeslagname vermeerderd worden met een taakstraf als hieronder vermeld.
-4. Een WOK-status is een status die vastgelegd is bij de Politie en Koninklijke marechaussee. Deze status kan na een reparatie of aanpassing van het voertuig door de ANWB, Politie of Koninklijke marechaussee verwijderd worden na een visuele controle van het voertuig.
+4. Een WOK-status is een status die vastgelegd is bij de Politie. Deze status kan na een reparatie of aanpassing van het voertuig door de MEC of politie verwijderd worden na een visuele controle van het voertuig.
 
 #### Rijden met WOK-status straffen
 
@@ -1171,7 +1096,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 ### Artikel X-1 Negeren van controle grensinspectiepost (1:1 - 1:31 Algemene Douanewet)
 
 1. Schuldig is een persoon die opzettelijk en wederrechtelijk een grensinspectiepost ontwijkt, daar waar hij redelijkerwijs deze grensinspectiepost zou moeten passeren.
-2. Schuldig is tevens een persoon die zich onthoudt van aanhouding dan wel controle door de Koninklijke Marechaussee bij een grensinspectiepost.
+2. Schuldig is tevens een persoon die zich onthoudt van aanhouding dan wel controle door de politie bij een grensinspectiepost.
 3. Niet schuldig is een persoon die een grensinspectiepost passeert dan wel ontwijkt of vermijdt terwijl deze op dat moment niet bemenst is met dienstdoend personeel.
 4. Niet schuldig is tevens een persoon die een grensinspectiepost passeert zonder controle wanneer deze persoon niet tijdig en duidelijk tot stilstand wordt gemaand door het dienstdoend personeel.
 5. Niet schuldig is tevens een persoon die, gelet op artikel 4, zijn of haar voertuig na passeren van de grens, met inachtneming van enige redelijkheid van afstand en tijd, tot stilstand brengt om alsnog te worden gecontroleerd.
@@ -1203,7 +1128,6 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 1. Met de opsporing van strafbare feiten zijn belast:
 	1. de (hulp)officieren van justitie;
 	2. de ambtenaren van politie voor zover zij zijn aangesteld voor de uitvoering van de politietaak;
-	3. de ambtenaren van de Koninklijke marechaussee;
 	4. de opsporingsambtenaren van de Recherche en Dienst Speciale Interventies (DSI);
 	5. De bevoegdheid van ambtenaren die met de opsporing van strafbare feiten zijn belast, is beperkt tot het gebied waarvoor zij zijn aangesteld;
 
