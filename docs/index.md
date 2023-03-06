@@ -11,4 +11,16 @@ De volgende documenten worden behandeld op deze website:
 - De discord regels zijn opgesteld om voor iedereen een veilige omgeving te creeren op onze Discord servers.
 - De overige documenten zijn van toepassing op verschillende in-game zaken, zoals voertuigeisen en dergelijke.
 
+## Officiële discord servers
+
+| *Titel* | *Omschrijving* | *Uitnodiging* |
+|---|---|:---:|
+|Springbank Roleplay| Discord server van Springbank Roleplay | [Klik hier](https://discord.gg/springbankrp) |
+|Springbank Support| Alle support gerelateerde zaken worden hier geregeld | [Klik hier](https://discord.gg/phj2fGkqvF) |
+|Springbank Bedrijven| Officiële particuliere bedrijven binnen Springbank | [Klik hier](https://discord.gg/ddtsmy9amq) |
+|Springbank Vliegschool| Officiële vliegschool van Springbank | [Klik hier](https://discord.gg/7AnPp5ayY3) |
+|Springbank Overheid| Verzamelplaats van alle overheidsorganisaties | [Klik hier](https://discord.gg/FTZv2yMWE5) |
+
+Laatste revisie: 06-03-2023
+
 <sub><sup>Bron: github.com/Tedeapolis/wet-en-regelgeving</sup></sub>
