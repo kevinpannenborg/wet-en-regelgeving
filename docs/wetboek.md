@@ -110,8 +110,8 @@
 
 ### Artikel I-1 Diefstal (310 SR)
 
-1. Schuldig is een persoon die een goed, of voertuig, wegneemt zonder daarvoor toestemming of enig recht toe te hebben
-2. Bij een poging tot diefstal is de maximaal op te leggen straf 33% van de volledige strafeis
+1. Een persoon is schuldig aan diefstal wanneer hij of zij een goed of voertuig wegneemt zonder toestemming of enig recht daartoe te hebben.
+2. Bij een poging tot diefstal kan de maximale straf opgelegd worden tot 33% van de volledige strafeis.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -121,10 +121,10 @@
 
 ### Artikel I-2 Gekwalificeerde Diefstal (311 SR)
 
-1. Schuldig is een persoon die een diefstal pleegt in een woning of op een besloten erf waarop een woning staat, door iemand die zich aldaar buiten weten of tegen de wil van de rechthebbende bevindt.
-2. Schuldig is een persoon die een diefstal pleegt in vereniging.
-3. Schuldig is een persoon die een diefstal pleegt waarbij de schuldige zich de toegang tot de plaats van het misdrijf heeft verschaft of het weg te nemen goed onder zijn bereik heeft gebracht door middel van braak, verbreking of inklimming, van valse sleutels, van een valse order of een vals kostuum;
-4. Bij een poging tot gekwalificeerde diefstal wordt de straf met 33% verminderd.
+1. Als een persoon een diefstal pleegt in een woning of op een besloten erf waarop een woning staat, terwijl hij of zij zich daar zonder toestemming of tegen de wil van de eigenaar bevindt, wordt deze persoon als schuldig beschouwd.
+2. Als een persoon in groepsverband een diefstal pleegt, wordt deze persoon als schuldig beschouwd.
+3. Als een persoon een diefstal pleegt door middel van braak, verbreking of inklimming, valse sleutels, een valse order of een vals kostuum, wordt deze persoon als schuldig beschouwd omdat hij zich de toegang tot de plaats van het misdrijf heeft verschaft of het goed heeft bereikt.
+4. Als er sprake is van een poging tot gekwalificeerde diefstal, wordt de straf met 33% verminderd.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -134,9 +134,9 @@
 
 ### Artikel I-3 Diefstal met geweld / Overval (312 SR)
 
-1. Schuldig is een persoon die een goed wegneemt zonder daarvoor toestemming of enig recht toe te hebben, daarbij gebruik makende van geweld in enige vorm.
-2. Genoemd geweld is gebruikt bij de voorbereiding, diefstal of overval, of vlucht.
-3. Bij een poging tot diefstal met geweld / overval wordt de straf met 33% verminderd.
+1. Wanneer iemand zonder toestemming of recht een goed wegneemt en daarbij geweld gebruikt in welke vorm dan ook, wordt deze persoon als schuldig beschouwd.
+2. Het gebruik van geweld kan voorkomen bij de voorbereiding, diefstal, overval of vlucht.
+3. Als er sprake is van een poging tot diefstal met geweld of overval, wordt de straf met 33% verminderd.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -146,8 +146,8 @@
 
 ### Artikel I-4 Afpersing (317 SR)
 
-1. Schuldig is een persoon die met dwang gegevens of goederen opeist van een derde.
-2. Schuldig is een persoon die met dwang een actie forceert of eist van een derde.
+1. Een persoon die met dwang gegevens of goederen opeist van een derde, wordt als schuldig beschouwd.
+2. Het forceren of eisen van een actie van een derde met dwang, leidt tot schuldigheid van de persoon die dit doet.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -157,8 +157,8 @@
 
 ### Artikel I-5 Afdreiging / Chantage (318 SR)
 
-1. Schuldig is een persoon die gegevens of goederen opeist van een derde door bedreiging met smaad of openbaring van een geheim.
-2. Schuldig is een persoon die een actie forceert of eist van een derde door bedreiging met smaad of openbaring van een geheim.
+1. Een persoon die gegevens of goederen opeist van een derde door bedreiging met smaad of openbaring van een geheim, wordt als schuldig beschouwd.
+2. Het forceren of eisen van een actie van een derde door bedreiging met smaad of openbaring van een geheim, maakt een persoon schuldig.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -168,7 +168,7 @@
 
 ### Artikel I-6 Verduistering (321 SR)
 
-1. Schuldig is een persoon die geld of goederen, die niet middels een misdrijf verkregen zijn, maar wel toebehoren aan een ander, opzettelijk en wederrechtelijk toeëigent.
+1. Een persoon wordt als schuldig beschouwd wanneer hij geld of goederen, die niet middels een misdrijf verkregen zijn, maar wel toebehoren aan een ander, opzettelijk en wederrechtelijk toeëigent.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -178,9 +178,9 @@
 
 ### Artikel I-7 Heling (416 SR)
 
-1. Schuldig is een persoon die een goed, afkomstig uit een misdrijf, verwerft of hierop aanspraak maakt.
-2. Schuldig is een persoon die voordeel trekt uit opbrengst van een door misdrijf verkregen goed.
-3. Niet schuldig is een persoon die redelijkerwijs geen weet heeft, of kan hebben, van de afkomst uit een misdrijf van het goed.
+1. Een persoon die een goed verkrijgt dat afkomstig is uit een misdrijf, of er aanspraak op maakt, wordt beschouwd als schuldig.
+2. Ook iemand die voordeel haalt uit de opbrengst van een door misdrijf verkregen goed wordt als schuldig beschouwd.
+3. Als een persoon redelijkerwijs geen weet kan hebben van de criminele oorsprong van het goed, wordt hij of zij als niet schuldig beschouwd.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -190,7 +190,7 @@
 
 ### Artikel I-8 Witwassen (420bis SR)
 
-1. Schuldig is een persoon die geld of goederen, verkregen uit misdrijf, vermengt of poogt te vermengen met het reguliere circuit van geld en goederen.
+1. Een persoon wordt als schuldig beschouwd wanneer hij of zij geld of goederen afkomstig van een misdrijf mengt of probeert te mengen met het normale circuit van geld en goederen.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -210,7 +210,7 @@
 
 ### Artikel II-1 Wederspannigheid/verzet (180 SR)
 
-1. Schuldig is een persoon die geweld pleegt of zich gewelddadig verzet tegen een ambtenaar in dienst.
+1. Een persoon die geweld pleegt of zich gewelddadig verzet tegen een ambtenaar in functie, wordt als schuldig beschouwd.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -220,9 +220,9 @@
 
 ### Artikel II-2 Gijzeling (282 SR)
 
-1. Schuldig is een persoon die overgaat tot wederrechtelijke beroving van de vrijheid van een derde.
-2. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 33% verhoogd.
-3. Bij poging tot wederrechtelijke beroving van de vrijheid van een derde wordt de straf met 33% verminderd.
+1. Een persoon die de vrijheid van een derde wederrechtelijk berooft, wordt beschouwd als schuldig.
+2. Wanneer de ambtenaar in functie het slachtoffer is, wordt de straf met 33% verhoogd.
+3. Als er sprake is van een poging tot wederrechtelijke beroving van de vrijheid van een derde, wordt de straf met 33% verminderd.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -232,8 +232,8 @@
 
 ### Artikel II-3 Bedreiging (285 SR)
 
-1. Schuldig is een persoon die dreiging uit met gewelddadige inhoud of misdadig karakter, jegens personen of goederen.
-2. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 33% verhoogd.
+1. Een persoon die dreigt met geweld of een misdrijf tegen personen of eigendommen, wordt beschouwd als schuldig.
+2. Indien de ambtenaar in functie het slachtoffer is, wordt de straf met 33% verhoogd.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -243,9 +243,9 @@
 
 ### Artikel II-4 Doodslag (287 SR)
 
-1. Schuldig is een persoon die opzettelijk een ander van het leven berooft.
-2. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 33% verhoogd.
-3. Bij een poging tot doodslag wordt de straf met 33% verminderd.
+1. Een persoon die opzettelijk een ander van het leven berooft, wordt beschouwd als schuldig.
+2. Als het slachtoffer een ambtenaar in functie is, wordt de straf met 33% verhoogd.
+3. Bij een poging tot doodslag wordt de straf met 33% verlaagd.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -255,8 +255,8 @@
 
 ### Artikel II-5 Moord (289 SR)
 
-1. Schuldig is een persoon die opzettelijk en met voorbedachte rade iemand van het leven berooft.
-2. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 33% verhoogd.
+1. Een persoon wordt als schuldig beschouwd wanneer hij opzettelijk en met voorbedachte rade iemand van het leven berooft.
+2. Indien het slachtoffer een ambtenaar in functie betreft, wordt de straf met 33% verhoogd.
 3. Bij een poging tot moord wordt de straf met 33% verminderd.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
@@ -267,10 +267,10 @@
 
 ### Artikel II-6 Eenvoudige mishandeling (300 SR)
 
-1. Schuldig is een persoon die opzettelijk en wederrechtelijk een ander mishandeld met ten hoogste licht lichamelijk, dan wel geestelijk letsel tot gevolg.
-2. Met mishandeling wordt gelijkgesteld het opzettelijk benadelen van de gezondheid.
-3. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 33% verhoogd.
-4. Een poging tot eenvoudige mishandeling is niet strafbaar.
+1. Indien iemand met opzet en zonder rechtmatige reden een ander licht lichamelijk of geestelijk letsel toebrengt, dan wordt diegene als schuldig beschouwd.
+2. Onder mishandeling valt ook het opzettelijk schaden van iemands gezondheid.
+3. Als de ambtenaar in functie het slachtoffer is, wordt de straf met 33% verhoogd.
+4. Het plegen van een poging tot eenvoudige mishandeling is niet strafbaar.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -280,11 +280,10 @@
 
 ### Artikel II-7 Zware mishandeling (302 SR)
 
-1. Schuldig is een persoon die opzettelijk en wederrechtelijk een ander mishandeld met zwaar lichamelijk, dan wel geestelijk letsel tot gevolg.
-2. Met mishandeling wordt gelijkgesteld het opzettelijk benadelen van de gezondheid.
-3. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 33% verhoogd.
-4. Bij een poging tot zware mishandeling wordt de straf met 33% verminderd.
-
+1. Indien een persoon opzettelijk en wederrechtelijk een ander mishandelt, waarbij er sprake is van zwaar lichamelijk of geestelijk letsel, dan wordt deze persoon als schuldig beschouwd.
+2. Het opzettelijk benadelen van de gezondheid wordt gelijkgesteld aan mishandeling.
+3. Wanneer het slachtoffer een ambtenaar in functie betreft, zal de straf met 33% worden verhoogd.
+4. Indien er sprake is van een poging tot zware mishandeling, wordt de straf met 33% verminderd.
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
 |  **Eerste Veroordeling** | 9 maanden  |  | € 10000,-  |
@@ -293,9 +292,9 @@
 
 ### Artikel II-8 Vernieling (350 SR)
 
-1. Schuldig is een persoon die opzettelijk en wederrechtelijk een goed dat geheel of ten dele aan een ander toebehoort, vernielt, beschadigt, onbruikbaar maakt of wegmaakt.
-2. Met vernieling wordt ook gelijkgesteld het opzettelijk en wederrechtelijk doden, beschadigen, onbruikbaar maken of wegmaken van een (huis)dier.
-3. Wanneer het goed of dier aangemerkt kan worden als eigendom van de overheid wordt de straf met 33% verhoogd.
+1. Een persoon wordt als schuldig beschouwd wanneer deze opzettelijk en wederrechtelijk een goed dat geheel of gedeeltelijk toebehoort aan een ander, vernielt, beschadigt, onbruikbaar maakt of wegneemt.
+2. Het doden, beschadigen, onbruikbaar maken of wegnemen van een (huis)dier wordt gelijkgesteld aan vernieling en is ook opzettelijk en wederrechtelijk.
+3. Als het goed of dier eigendom is van de overheid, wordt de straf verhoogd met 33%.
 4. Bij een poging tot vernieling wordt de straf met 33% verminderd.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
@@ -306,13 +305,13 @@
 
 ### Titel II-9 Terroristisch misdrijf (134a 142a SR)
 
-Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of een deel der bevolking van een land ernstige vrees aan te jagen, dan wel een overheid of internationale organisatie wederrechtelijk te dwingen iets te doen, niet te doen of te dulden, dan wel de fundamentele politieke, constitutionele, economische of sociale structuren van een land of een internationale organisatie ernstig te ontwrichten of te vernietigen.
+Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de bevolking of een deel van de bevolking van een land ernstige angst aan te jagen, een overheid of internationale organisatie te dwingen om iets te doen, niet te doen of te tolereren, of om de fundamentele politieke, constitutionele, economische of sociale structuren van een land of internationale organisatie ernstig te verstoren of te vernietigen.
 
-1. Schuldig is een persoon die zich of een ander opzettelijk gelegenheid, middelen of inlichtingen verschaft of tracht te verschaffen tot het plegen van een terroristisch misdrijf dan wel een misdrijf ter voorbereiding of vergemakkelijking van een terroristisch misdrijf, dan wel zich kennis of vaardigheden daartoe verwerft of een ander bijbrengt.
-2. Schuldig is een persoon die een voorwerp verzendt of op een al dan niet voor het publiek toegankelijke plaats achterlaat of plaatst, en tot ontploffing brengt met het oogmerk op een terroristische daad.
-3. Schuldig is een persoon die een voorwerp verzendt of op een al dan niet voor het publiek toegankelijke plaats achterlaat of plaatst of hij die gegevens doorgeeft met het oogmerk een ander ten onrechte te doen geloven dat daardoor een ontploffing kan worden teweeggebracht.
-4. Toepassen van dit artikel kan enkel geschieden met toestemming van een (h)OvJ of een rechter.
-5. Veroordeling op dit artikel sluit verdere strafvervolging/veroordeling van andere strafbare feiten niet uit, tenzij het in strijd is met het Ne bis in idem beginsel zoals beschreven in artikel A10 - Algemene rechtsbeginselen.
+1. Een persoon die opzettelijk gelegenheid, middelen of informatie verschaft of probeert te verschaffen om een terroristisch misdrijf te plegen of zich voor te bereiden op een terroristisch misdrijf, of die kennis of vaardigheden verwerft of aan een ander bijbrengt, wordt als schuldig beschouwd.
+2. Een persoon die met het oog op een terroristische daad een voorwerp verzendt of achterlaat op een al dan niet publiek toegankelijke plaats en dit tot ontploffing brengt, wordt als schuldig beschouwd.
+3. Een persoon die met het doel om een ander ten onrechte te laten geloven dat een ontploffing kan plaatsvinden, een voorwerp verzendt of achterlaat op een al dan niet publiek toegankelijke plaats of gegevens doorgeeft, wordt als schuldig beschouwd.
+4. Toepassing van dit artikel is alleen mogelijk met toestemming van een officier van justitie of een rechter.
+5. Een veroordeling op basis van dit artikel sluit verdere strafrechtelijke vervolging/veroordeling van andere strafbare feiten niet uit, tenzij dit in strijd is met het beginsel van Ne bis in idem zoals beschreven in artikel A10 - Algemene rechtsbeginselen.
 6. Bij veroordeling op basis van lid 3 wordt de straf met 33% verminderd.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
@@ -323,8 +322,8 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ### Artikel II-10 Dood door schuld (307 SR)
 
-1. Schuldig is een persoon die door zijn toedoen een ander van het leven berooft, zonder dat hierbij sprake is van opzet of voorbedachte rade.
-2. Indien de schuld bestaat door roekeloosheid wordt de straf met 33% verhoogd.
+1. Een persoon die door zijn eigen handelen een ander het leven ontneemt, zonder opzet of voorbedachte rade, wordt als schuldig beschouwd.
+2. Als de schuld te wijten is aan roekeloosheid, wordt de straf met 33% verhoogd.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
@@ -337,23 +336,23 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ### Artikel III-1 Verkeersovertredingen in algemene zin (5 WVW)
 
-1. Voor verkeersovertredingen in algemene zin, niet verder gespecificeerd als zijnde zwaardere delicten, geldt een boete van €430,- per geval.
-2. Afhankelijk van de aard van de overtreding kan de dienstdoende agent er voor kiezen een waarschuwing te geven in plaats van een boete.
+1. Bij verkeersovertredingen in het algemeen, zonder verdere specificatie van zwaardere misdrijven, wordt een boete van €500,- per geval opgelegd.
+2. De dienstdoende agent kan afhankelijk van de aard van de overtreding ervoor kiezen om een waarschuwing te geven in plaats van een boete.
 
 ### Artikel III-2 Gevaar / hinder zonder ongeval (5 WVW)
 
-1. Schuldig is een persoon die zich zodanig gedraagt in het verkeer dat er sprake is van gevaar of (mogelijke) hinder op de openbare weg.
-2. Op basis van inschatting van de dienstdoende agent kan eveneens overgegaan worden tot invordering van het rijbewijs.
+1. Er is sprake van schuldig gedrag in het verkeer wanneer iemand gevaar of mogelijke hinder veroorzaakt op de openbare weg.
+2. Het rijbewijs kan ook worden ingevorderd op basis van de inschatting van de dienstdoende agent.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
+|   | *Celstraf*  | *Taakstraf*  | *boete*  | 
 |---|---|---|---|---|
-|  **Eerste Veroordeling** |   |  | € 3000,-  | 0-24 uur |
-| **Tweede Veroordeling**  |   | 5 uur | € 4000,-  | 0-24 uur |
-| **Meerdere Veroordelingen**  |   | 10 uur | € 5000,-  | 0-24 uur |
+|  **Eerste Veroordeling** |   |  | € 3000,-  | 
+| **Tweede Veroordeling**  |   | 5 uur | € 4000,-  | 
+| **Meerdere Veroordelingen**  |   | 10 uur | € 5000,-  | 
 
 ### Artikel III-3 Opzettelijk veroorzaken van ernstig gevaar of hinder (5a WvW)
 
-1. Het is eenieder verboden opzettelijk zich zodanig in het verkeer te gedragen dat de verkeersregels in ernstige mate worden geschonden, indien daarvan levensgevaar of gevaar voor zwaar lichamelijk letsel voor een ander te duchten is.
+1. Het is verboden om opzettelijk het verkeersgedrag dusdanig te schenden dat de verkeersregels ernstig worden overtreden en daarmee levensgevaar of risico op zwaar lichamelijk letsel voor anderen veroorzaakt wordt.
 2. Als zodanige verkeersgedragingen kunnen de volgende gedragingen worden aangemerkt:
     1. Onvoldoende rechts houden op onoverzichtelijke plaatsen;
     2. Gevaarlijk inhalen;
@@ -371,120 +370,118 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
     2. Door dat asociale en roekeloze gedrag moet duidelijk blijken dat daardoor levensgevaar dan wel gevaar voor zwaar lichamelijk letsel voor een ander kan ontstaan;
     3. Door één enkele van de genoemde overtredingen, al dan niet bewust gepleegd, wordt niet meteen dit artikel overtreden, het moet gaan om een combinatie van meerdere feiten die leiden tot roekeloos weggedrag en onaanvaardbaar risico. Die worden bepaald door de aard en het samenstel van alle gedragingen en de omstandigheden waaronder deze werden verricht en alle feitelijke omstandigheden van het geval. Er wordt ook gekeken naar veroordelingen voor artikel III-2/III-3 (5/5a WvW) in het verleden;
     4. Voor wat betreft de handhaving is staandehouding het uitgangspunt.
-4. Veroordeling voor dit artikel kan enkel geschieden met toestemming van een (h)OvJ of een rechter.
-5. Op basis van inschatting van de feiten en omstandigheden kan eveneens overgegaan worden tot invordering van het rijbewijs en/of inbeslagname van het voertuig.
+4. Alleen met toestemming van een (h)OvJ of rechter kan er een veroordeling plaatsvinden voor dit artikel.
+5. Indien de feiten en omstandigheden hiertoe aanleiding geven, kan ook het rijbewijs worden ingevorderd en/of het voertuig in beslag worden genomen.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
+|   | *Celstraf*  | *Taakstraf*  | *boete*  | 
 |---|---|---|---|---|
-|  **Eerste Veroordeling** | | 45 uur | € 3000,-  | 24-48 uur |
-| **Tweede Veroordeling**  | 12 maanden  | | € 7500,- | 48-72 uur |
-| **Meerdere Veroordelingen**  | 18 maanden  | | € 10500,-  | 48-72 uur |
+|  **Eerste Veroordeling** | | 45 uur | € 3000,-  | 
+| **Tweede Veroordeling**  | 12 maanden  | | € 7500,- | 
+| **Meerdere Veroordelingen**  | 18 maanden  | | € 10500,-  |
 
 ### Artikel III-4 Veroorzaken ongeval, met al dan niet licht lichamelijk letsel tot gevolg (6 WVW)
 
-1. Schuldig is een persoon die een ongeval veroorzaakt, met al dan niet licht lichamelijk letsel aan een derde tot gevolg, door een gevaarlijke dan wel hinderlijke deelname aan het verkeer.
-2. Licht lichamelijk letsel is in dezen alle letsel die ter plaatse, zonder ziekenhuisopname, te behandelen is.
-3. Op basis van inschatting van de dienstdoende agent kan eveneens overgegaan worden tot invordering van het rijbewijs.
+1. Wanneer iemand door een gevaarlijke of hinderlijke deelname aan het verkeer een ongeval veroorzaakt met al dan niet licht lichamelijk letsel aan een derde tot gevolg, wordt deze persoon beschouwd als schuldig.
+2. Onder licht lichamelijk letsel vallen alle verwondingen die ter plaatse behandeld kunnen worden en geen ziekenhuisopname vereisen.
+3. Het is mogelijk dat het rijbewijs wordt ingenomen op basis van de inschatting van de dienstdoende agent.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|---|
-|  **Eerste Veroordeling** |   | 10 uur  | € 4000,-  | 0-12 uur |
-| **Tweede Veroordeling**  |   | 15 uur | € 5000,-  | 0-24 uur |
-| **Meerdere Veroordelingen**  |   | 20 uur | € 6000,-  | 0-24 uur |
+|  **Eerste Veroordeling** |   | 10 uur  | € 4000,-  |
+| **Tweede Veroordeling**  |   | 15 uur | € 5000,-  |
+| **Meerdere Veroordelingen**  |   | 20 uur | € 6000,-  |
 
 ### Artikel III-5 Veroorzaken ongeval, met zwaar lichamelijk letsel tot gevolg (6 WVW)
 
-1. Schuldig is een persoon die een ongeval veroorzaakt, met zwaar lichamelijk letsel aan een derde tot gevolg, door een gevaarlijke dan wel hinderlijke deelname aan het verkeer.
-2. Zwaar lichamelijk letsel is in dezen alle letsel die niet ter plaatse te behandelen is.
-3. Op basis van inschatting van de dienstdoende agent kan eveneens overgegaan worden tot invordering van het rijbewijs.
+1. Een persoon die door gevaarlijk of hinderlijk rijgedrag een ongeval veroorzaakt met zwaar lichamelijk letsel tot gevolg bij een derde, wordt als schuldig beschouwd.
+2. Zwaar lichamelijk letsel omvat in dit geval alle verwondingen die niet ter plaatse behandeld kunnen worden.
+3. De dienstdoende agent kan het rijbewijs invorderen op basis van zijn/haar inschatting.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|---|
-|  **Eerste Veroordeling** |   | 15 uur  | € 10000,-  | 0-24 uur |
-| **Tweede Veroordeling**  |   | 20 uur | € 11000,-  | 0-24 uur |
-| **Meerdere Veroordelingen**  |   | 25 uur | € 12000,-  | 0-24 uur |
+|  **Eerste Veroordeling** |   | 15 uur  | € 10000,-  |
+| **Tweede Veroordeling**  |   | 20 uur | € 11000,-  |
+| **Meerdere Veroordelingen**  |   | 25 uur | € 12000,-  |
 
 ### Artikel III-6 Veroorzaken ongeval, met de dood tot gevolg (6 WVW)
 
-1. Schuldig is een persoon die een ongeval veroorzaakt, met de dood van een derde tot gevolg, door een gevaarlijke dan wel hinderlijke deelname aan het verkeer.
-2. Op basis van inschatting van de dienstdoende agent kan eveneens overgegaan worden tot invordering van het rijbewijs.
+1. Als gevolg van gevaarlijke of hinderlijke deelname aan het verkeer waardoor een derde persoon overlijdt, wordt iemand schuldig verklaard aan een ongeval.
+2. Afhankelijk van de beoordeling van de dienstdoende agent kan het rijbewijs ook worden ingevorderd.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|---|
-|  **Eerste Veroordeling** | 9 maanden  |  | € 16000,-  | 0-24 uur |
-| **Tweede Veroordeling**  | 13 maanden  |  | € 17000,-  | 0-24 uur |
-| **Meerdere Veroordelingen**  | 18 maanden  |  | € 18000,-  | 0-24 uur |
+|  **Eerste Veroordeling** | 9 maanden  |  | € 16000,-  |
+| **Tweede Veroordeling**  | 13 maanden  |  | € 17000,-  |
+| **Meerdere Veroordelingen**  | 18 maanden  |  | € 18000,-  |
 
 ### Artikel III-7 Verlaten plaats van verkeersongeval (7 WVW)
 
-1. Schuldig is een persoon die een plaats van verkeersongeval verlaat ongeacht of hij of zij schuldig was aan het veroorzaken daarvan.
-2. Wanneer daarbij een derde wordt achtergelaten in hulpeloze toestand wordt de straf verhoogd met 33%.
-3. Wanneer de persoon zich nadien, tijdig, alsnog meldt bij de politie zal worden afgezien van strafvervolging.
-4. Een eventuele rijontzegging is ter beoordeling van de dienstdoende ambtenaar.
+1. Indien een persoon na een verkeersongeval de plaats verlaat, ongeacht of deze persoon schuldig was aan het ongeval, wordt deze persoon als schuldig beschouwd.
+2. Als hierdoor een derde in hulpeloze toestand wordt achtergelaten, zal de straf met 33% worden verhoogd.
+3. Als de persoon zich alsnog tijdig bij de politie meldt, zal er geen strafvervolging plaatsvinden.
+4. De beslissing om een rijontzegging op te leggen is aan de dienstdoende ambtenaar.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|---|
-|  **Eerste Veroordeling** | 9 maanden |  | € 15000,-  | 12-24 uur |
-| **Tweede Veroordeling**  | 13 maanden  |  | € 16000,-  | 24-48 uur |
-| **Meerdere Veroordelingen**  | 22 maanden  |  | € 18000,-  | 72 uur |
+|  **Eerste Veroordeling** | 9 maanden |  | € 15000,-  |
+| **Tweede Veroordeling**  | 13 maanden  |  | € 16000,-  |
+| **Meerdere Veroordelingen**  | 22 maanden  |  | € 18000,-  |
 
 ### Artikel III-8 Rijden onder invloed (8 WVW)
 
-1. Schuldig is een persoon die deelneemt aan het verkeer onder invloed van alcohol, verdovende middelen of medicijnen die de rijvaardigheid beïnvloeden.
-2. Uitzonderingsgrond is het te voet deelnemen aan het verkeer.
+1. Een persoon die deelneemt aan het verkeer onder invloed van alcohol, verdovende middelen of medicijnen die de rijvaardigheid beïnvloeden, wordt beschouwd als schuldig.
+2. Een uitzondering hierop is wanneer iemand te voet deelneemt aan het verkeer.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|---|
-|  **Eerste Veroordeling** |   | 30 uur  | € 4000,-  | 0-24 uur |
-| **Tweede Veroordeling**  |   | 40 uur | € 5000,-  | 0-24 uur |
-| **Meerdere Veroordelingen**  |   | 50 uur | € 6000,-  | 0-24 uur |
+|  **Eerste Veroordeling** |   | 30 uur  | € 4000,-  |
+| **Tweede Veroordeling**  |   | 40 uur | € 5000,-  |
+| **Meerdere Veroordelingen**  |   | 50 uur | € 6000,-  |
 
 ### Artikel III-9 Rijden zonder bevoegdheid (9 WVW)
 
-1. Schuldig is een persoon die weet of redelijkerwijs behoort te weten dat hem of haar de rijbevoegdheid is ontzegd en desondanks deelneemt aan het verkeer.
-2. Wanneer de bevoegdheid is ontzegd middels een invordering van het rijbewijs, dan geldt dit voor alle categoriën van dat rijbewijs.
+1. Een persoon wordt als schuldig beschouwd wanneer hij of zij op de hoogte is of redelijkerwijs zou moeten weten dat de rijbevoegdheid is ontzegd en toch deelneemt aan het verkeer.
+2. Als het rijbewijs is ingevorderd, geldt de ontzegging van de rijbevoegdheid voor alle categorieën van dat rijbewijs.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  | *rijontzegging* |
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|---|
-|  **Eerste Veroordeling** |   | 10 uur  | € 4000,-  | 0-24 uur |
-| **Tweede Veroordeling**  |   | 20 uur | € 4000,-  | 0-24 uur |
-| **Meerdere Veroordelingen**  |   | 30 uur | € 6000,-  | 0-24 uur |
+|  **Eerste Veroordeling** |   | 10 uur  | € 4000,-  |
+| **Tweede Veroordeling**  |   | 20 uur | € 4000,-  |
+| **Meerdere Veroordelingen**  |   | 30 uur | € 6000,-  |
 
 ### Artikel III-10 Fout parkeren (25 RVV 1990)
 
-1. Schuldig is een persoon die zijn of haar voertuig parkeert op een wijze die niet sluit met de aangegeven parkeersituatie, zoals:
-    1. dubbelparkeren of het moedwillig doorkruisen van parkeervakken;
-    2. het parkeren langs een rode trottoirrand;
-    3. volledig parkeren op de stoep;
-    4. parkeren op een plaats enkel bestemd voor dienst voertuigen;
-2. De vastgestelde boete voor bovenstaande acties is € 1750,-
+1. Een persoon die zijn of haar voertuig op een wijze parkeert die niet overeenkomt met de aangegeven parkeersituatie, wordt als schuldig beschouwd. Voorbeelden hiervan zijn:
+ * Dubbelparkeren of opzettelijk het doorkruisen van parkeervakken;
+ * Parkeren langs een rode trottoirrand;
+ * Volledig parkeren op de stoep;
+ * Parkeren op een plaats die alleen bedoeld is voor dienstvoertuigen.
+2. Voor deze acties is een boete van € 1750,- vastgesteld.
 
 ### Artikel III-11 Snelheidsovertredingen
 
-1. Schuldig is een persoon die de wettelijk bepaalde snelheden voor verkeer niet in acht neemt tijdens deelname aan het verkeer.
-2. De toegestane snelheden zijn 80KM/h en 130KM/h op de snelweg.
-3. Flitscamera's die op verschillende plaatsen staan zullen in geval van overtreding een boete uitsturen naar de overtredende partij.
-4. Indien een dienstdoende agent een overtredende partij staande houdt, is hij of zij gerechtigd tot het uitschrijven van onderstaande boetes.
-5. Voor snelheidsovertredingen die de bovenstaande snelheden overschreiden kan de agent overgaan tot arrestatie en strafvervolging.
-6. De meetcorrectie is 5 kilometer en de eerste 5 kilometer te hard rijden blijft onbestraft.
+1. Wanneer iemand tijdens deelname aan het verkeer de wettelijk bepaalde snelheden niet in acht neemt, wordt deze persoon als schuldig beschouwd.
+2. Op alle landelijke wegen (snelwegen) is het toegestaan om maximaal 130 km/u te rijden. Op alle overige wegen is het toegestaan om maximaal 80 km/u te rijden.
+3. Er geldt een meetcorrectie van 5 kilometer en bij de eerste 5 kilometer te hard rijden blijft de overtreding onbestraft.
+4. Er geldt een geldboete van 100 EUR per km/u te hard.
 
 ### Artikel III-12 Voertuigeisen
 
-1. Het voertuig, uitgezonderd fietsen, heeft 1 of meer nummerplaten, als dit niet mogelijk is moet de bestuurder in het bezit zijn van een geldig bewijs in vorm van een document als ontheffing daarvoor.
-2. Indien een voertuig ramen bezit dient het gezicht van de bestuurder en passagier(s) duidelijk zichtbaar te zijn.
-3. Er mag geen verlichting gevoerd worden onder het voertuig bij deelname aan het verkeer.
-4. Het voertuig dient vrij te zijn van uitstekende onderdelen en/of grote schade, die de veiligheid in het gedrang brengt.
-5. Bij het voertuig mogen geen deuren ontbreken, indien deze wel aanwezig behoren te zijn.
-6. Het voertuig dient een eentonige claxon te voeren.
-7. Het voertuig dient vrij te zijn van een WOK-status bij deelname aan het verkeer.
-8. Het licht van de koplampen van het voertuigen dient een witte of gele kleur te hebben.
+1. Een voertuig, behalve fietsen, moet ten minste één nummerplaat hebben. Indien dit niet mogelijk is, moet de bestuurder in het bezit zijn van een geldig document als bewijs van ontheffing.
+2. Indien een voertuig ramen heeft, moet het gezicht van de bestuurder en passagier(s) duidelijk zichtbaar zijn.
+3. Verlichting onder het voertuig is niet toegestaan bij deelname aan het verkeer.
+4. Het voertuig mag geen uitstekende onderdelen en/of grote schade hebben die de veiligheid in het gedrang brengt.
+5. Er mogen geen deuren ontbreken bij het voertuig, indien deze wel aanwezig behoren te zijn.
+6. Het voertuig moet een eentonige claxon hebben.
+7. Het voertuig mag geen WOK-status hebben bij deelname aan het verkeer.
+8. De koplampen van het voertuig moeten een witte of gele kleur hebben.
 
 #### Strafbepalingen Voertuigeisen
 
-1. Schuldig is een persoon van wie zijn of haar voertuig niet voldoet aan de bovenstaande eisen.
-2. Indien een bestuurder in een voertuig met een WOK-status deelneemt aan het verkeer, en de Politie de bestuurder voor de eerste of tweede keer staande houdt, dan zal dit worden gezien als een misdrijf. Dit wordt bestraft met een inbeslagname van het desbetreffende voertuig.
-3. Wordt een bestuurder bij een derde keer of vaker staande gehouden, zal de sanctie van een inbeslagname vermeerderd worden met een taakstraf als hieronder vermeld.
-4. Een WOK-status is een status die vastgelegd is bij de Politie. Deze status kan na een reparatie of aanpassing van het voertuig door de MEC of politie verwijderd worden na een visuele controle van het voertuig.
+1. Een persoon is schuldig wanneer zijn of haar voertuig niet voldoet aan de gestelde eisen.
+2. Wanneer een bestuurder met een voertuig met een WOK-status deelneemt aan het verkeer en voor de eerste of tweede keer staande wordt gehouden, wordt dit beschouwd als een misdrijf. De sanctie hiervoor is inbeslagname van het voertuig.
+3. Bij een derde keer of vaker staande gehouden te worden, wordt de sanctie van inbeslagname van het voertuig vermeerderd met een taakstraf.
+4. De WOK-status is een status die bij de politie wordt vastgelegd. Na reparatie of aanpassing van het voertuig kan de MEC of politie deze status verwijderen na visuele controle van het voertuig.
 
 #### Rijden met WOK-status straffen
 
@@ -496,10 +493,10 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 | *Feit* | *boete* |
 |---|---|
-| Rijden zonder kentekenplaten | € 10000,- |
-| Ramen dusdanig donker getint zodat de bestuurder en passagier voor in niet zichtbaar zijn | € 7500,- |
-| Verlichting(NEON) onder het voertuig | € 2500,- |
-| Rijden met koplampen met een andere lichtkleur dan wit of geel | € 5000,- |
+| Rijden zonder kentekenplaten | € 750,- |
+| Ramen dusdanig donker getint zodat de bestuurder en passagier voor in niet zichtbaar zijn | € 2500,- |
+| Verlichting(NEON) onder het voertuig | € 1500,- |
+| Rijden met koplampen met een andere lichtkleur dan wit of geel | € 2500,- |
 
 ### Artikel III-13 Overige verkeersboetes
 
@@ -511,9 +508,8 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 |---|---|
 | Blokkeren van de weg | € 720,- |
 | Maken van een U-turn daar waar dat niet is toegestaan | € 420,- |
-| Rijden in een voertuig dat niet toegestaan is op de openbare weg | € 3300,-  |
-| Maken van een Burnout  | € 430,- |
-| Onnodig Claxoneren | € 370,-  |
+| Rijden in een voertuig dat niet toegestaan is op de openbare weg | € 2500,-  |
+| Onnodig Claxoneren | € 150,-  |
 | Over een doorgestrokken streep rijden  | € 480,-  |
 | Aan de verkeerde kant van de weg rijden (spookrijden) | € 1860,- |
 | Illegaal off road rijden | € 420,- |
@@ -999,39 +995,6 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 1. De verdachte is bevoegd zich tijdens het doorzoeken van plaatsen door zijn advocaat te doen bijstaan, zonder dat de doorzoeking daardoor mag worden opgehouden.
 
-### Artikel VIII-14 Vergunningloze voertuig handelaar
-
-1. Schuldig is een persoon die meerdere voertuigen verhandeld op een locatie, zonder over de daarvoor vereiste vergunning te beschikken.
-2. Indien een opsporingsambtenaar merkt dat de schuldige nergens van afwist, dan kan deze zijn discretionaire bevoegdheid gebruiken om het af te doen met een waarschuwing in de vorm van een notitie.
-
-|  |Celstraf  | Taakstraf  | boete  |
-|---|---|---|---|
-|  Eerste Veroordeling |  |  | € 50000,-  |
-| Tweede Veroordeling  |  | 25 uur | € 75000,-  |
-| Meerdere Veroordelingen  |  | 50 uur | € 100000,-  |
-
-### Artikel VIII-15 Werkzaam bedrijf zonder KvK-Inschrijving
-
-1. Schuldig is een persoon die onder een bedrijfsnaam handelt of een omzet creëert doormiddel van zijn of haar bedrijf en niet KvK ingeschreven staat.
-2. Indien een opsporingsambtenaar merkt dat de schuldige nergens van afwist, dan kan deze zijn discretionaire bevoegdheid gebruiken om het af te doen met een waarschuwing in de vorm van een notitie.
-
-|  |Celstraf  | Taakstraf  | boete  |
-|---|---|---|---|
-|  Eerste Veroordeling |  | 70 uur | € 12000,-  |
-| Tweede Veroordeling  | 25 maanden |  | € 15000,-  |
-| Meerdere Veroordelingen  | 50 maanden |  | € 100000,-  |
-
-### Artikel VIII-16 Niet in bezit hebben van juiste vergunningen
-
-1. Schuldig is een persoon die een dienst levert waarvoor een onderscheidende vergunning vereist is, maar dit zonder doet.
-2. Indien een opsporingsambtenaar merkt dat de schuldige nergens van afwist, dan kan deze zijn discretionaire bevoegdheid gebruiken om het af te doen met een waarschuwing in de vorm van een notitie.
-
-|  |Celstraf  | Taakstraf  | boete  |
-|---|---|---|---|
-|  Eerste Veroordeling |  | 50 uur | € 10000,-  |
-| Tweede Veroordeling  | 15 maanden |  | € 15000,-  |
-| Meerdere Veroordelingen  | 25 maanden |  | € 20000,-  |
-
 ### Artikel VIII-17 Misdrijven tegen de openbare orde (131 SR)
 
 1. Hij die in het openbaar, mondeling of bij geschrift of afbeelding, tot enig strafbaar feit of tot gewelddadig optreden tegen het openbaar gezag opruit, wordt gestraft volgens onderstaande tabel. 
@@ -1044,8 +1007,8 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ### Artikel VIII-18 Misdrijven tegen het openbaar gezag (189 SR)
 
-1. Schuldig is een persoon die opzettelijk iemand die schuldig is aan of verdacht wordt van enig misdrijf behulpzaam is in het ontkomen aan de nasporing van of aanhouding door enige ambtenaar in functie.
-2. Schuldig is een persoon die opzettelijk voorwerpen vernietigd of ontneemt om de inbeslagneming door een ambtenaar in functie te beletten of te belemmeren. 
+1. Een persoon wordt als schuldig beschouwd wanneer hij opzettelijk iemand helpt die schuldig is aan of verdacht wordt van een misdrijf om te ontsnappen aan de opsporing of aanhouding door ambtenaren in functie.
+2. Een persoon wordt als schuldig beschouwd wanneer hij opzettelijk voorwerpen vernietigt of ontneemt om de inbeslagname door een ambtenaar in functie te voorkomen of te hinderen.
 
 |  |Celstraf  | Taakstraf  | boete  |
 |---|---|---|---|
