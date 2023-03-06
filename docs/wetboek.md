@@ -345,7 +345,7 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 2. Het rijbewijs kan ook worden ingevorderd op basis van de inschatting van de dienstdoende agent.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  | 
-|---|---|---|---|---|
+|---|---|---|---|
 |  **Eerste Veroordeling** |   |  | € 3000,-  | 
 | **Tweede Veroordeling**  |   | 5 uur | € 4000,-  | 
 | **Meerdere Veroordelingen**  |   | 10 uur | € 5000,-  | 
@@ -374,7 +374,7 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 5. Indien de feiten en omstandigheden hiertoe aanleiding geven, kan ook het rijbewijs worden ingevorderd en/of het voertuig in beslag worden genomen.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  | 
-|---|---|---|---|---|
+|---|---|---|---|
 |  **Eerste Veroordeling** | | 45 uur | € 3000,-  | 
 | **Tweede Veroordeling**  | 12 maanden  | | € 7500,- | 
 | **Meerdere Veroordelingen**  | 18 maanden  | | € 10500,-  |
@@ -386,7 +386,7 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 3. Het is mogelijk dat het rijbewijs wordt ingenomen op basis van de inschatting van de dienstdoende agent.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|---|
+|---|---|---|---|
 |  **Eerste Veroordeling** |   | 10 uur  | € 4000,-  |
 | **Tweede Veroordeling**  |   | 15 uur | € 5000,-  |
 | **Meerdere Veroordelingen**  |   | 20 uur | € 6000,-  |
@@ -398,7 +398,7 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 3. De dienstdoende agent kan het rijbewijs invorderen op basis van zijn/haar inschatting.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|---|
+|---|---|---|---|
 |  **Eerste Veroordeling** |   | 15 uur  | € 10000,-  |
 | **Tweede Veroordeling**  |   | 20 uur | € 11000,-  |
 | **Meerdere Veroordelingen**  |   | 25 uur | € 12000,-  |
@@ -409,7 +409,7 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 2. Afhankelijk van de beoordeling van de dienstdoende agent kan het rijbewijs ook worden ingevorderd.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|---|
+|---|---|---|---|
 |  **Eerste Veroordeling** | 9 maanden  |  | € 16000,-  |
 | **Tweede Veroordeling**  | 13 maanden  |  | € 17000,-  |
 | **Meerdere Veroordelingen**  | 18 maanden  |  | € 18000,-  |
@@ -422,7 +422,7 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 4. De beslissing om een rijontzegging op te leggen is aan de dienstdoende ambtenaar.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|---|
+|---|---|---|---|
 |  **Eerste Veroordeling** | 9 maanden |  | € 15000,-  |
 | **Tweede Veroordeling**  | 13 maanden  |  | € 16000,-  |
 | **Meerdere Veroordelingen**  | 22 maanden  |  | € 18000,-  |
@@ -433,7 +433,7 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 2. Een uitzondering hierop is wanneer iemand te voet deelneemt aan het verkeer.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|---|
+|---|---|---|---|
 |  **Eerste Veroordeling** |   | 30 uur  | € 4000,-  |
 | **Tweede Veroordeling**  |   | 40 uur | € 5000,-  |
 | **Meerdere Veroordelingen**  |   | 50 uur | € 6000,-  |
@@ -444,7 +444,7 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 2. Als het rijbewijs is ingevorderd, geldt de ontzegging van de rijbevoegdheid voor alle categorieën van dat rijbewijs.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|---|
+|---|---|---|---|
 |  **Eerste Veroordeling** |   | 10 uur  | € 4000,-  |
 | **Tweede Veroordeling**  |   | 20 uur | € 4000,-  |
 | **Meerdere Veroordelingen**  |   | 30 uur | € 6000,-  |
