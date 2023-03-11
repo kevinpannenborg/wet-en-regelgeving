@@ -31,6 +31,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
     * Gebruik maken van je portofoon of telefoon terwijl je aan het zwemmen bent.
     * Stelen van voertuigen zonder toepassende roleplay.
     * Misbruik maken van de emote-functionaliteit.
+	* Meth koken in een rijdend voertuig.
     * Een agent ontvoeren om een signalering te verwijderen of om iets te bekijken in het politiesysteem (MEOS).
     * Het dwingen van politiemedewerkers om een bewusteloos persoon te fouilleren en items zoals wapens af te nemen en af te geven aan jou of iemand anders.
     * Het gebruik maken van persoonlijke keybinds om bijvoorbeeld /me te doen.
@@ -42,6 +43,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 1. Het is niet toegestaan om gebruik te maken van software/hulpmiddelen (cheats ofwel hacks) van derde partijen om profijt te krijgen in het spel.
 2. Enkele voorbeelden hiervan zijn, maar niet beperkt tot:
     * Mod menu (Eulen, Redengine etc.)
+	* Injectors
     * Crosshairs
     * Macro keys
     * Autoclickers
@@ -117,10 +119,32 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 
 > Straf ⇨ Categorie 4: een ban van maximaal 3 dagen
 
-### Artikel 10 - Deelname aan het verkeer
+### Artikel 10 - Combat-stashing
+
+1. Indien je een voorwerp of dergelijk hebt gestolen van iets of iemand is het niet toegestaan om dit binnen tien minuten na het betreffende scenario op te bergen in een onbereikbare plek, zoals bijvoorbeeld een huis of een kofferbak in de garage.
+
+> Straf ⇨ Categorie 3: een ban van maximaal 2 dagen
+
+### Artikel 11 - VDM (Vehicle Deathmatch)
+
+1. Het is niet toegestaan om je voertuig als geweldsmiddel te gebruiken.
+2. Indien iemand moedwillig wordt aangereden met een snelheid hoger dan 40 km/u wordt dit beschouwt als poging tot doodslag of poging tot moord afhankelijk van de situatie.
+
+> Straf ⇨ Categorie 4: een ban van maximaal 3 dagen
+
+### Artikel 12 - RDM (Random Deathmatch)
+
+1. Het is niet toegestaan om zonder goede aanleiding iemand van het leven te beroven. Dit wordt verstaan onder Random Deathmatch ('RDM')
+2. Mocht het in hetzelfde tijdsbestek vaker gebeuren dat een persoon zonder goede aanleiding mensen van het leven beroofd kan een staflid besluiten om het gebruikte wapen in beslag te nemen.
+
+> Straf ⇨ Categorie 4: een ban van maximaal 3 dagen
+
+### Artikel 13 - Deelname aan het verkeer
 
 1. Het is niet toegestaan om onrealistische rijstijlen aan te nemen.
 2. Enkele voorbeelden hiervan zijn, maar niet beperkt tot:
+	* Het onnodig rammen en/of beuken van andere voertuigen zonder goede aanleiding
+	* Indien je een lekke band hebt harder dan 80km/u rijden. Als je band helemaal van je velg af is en je dus op je velgen rijdt mag je niet rijden.
 	* Met meer dan 250km/u over Blokkenpark of dergelijk rijden zonder goede aanleiding
 	* Gebruik maken van de zogenoemde 'jumps' of 'ramps' verpreid door de stad.
 	* Met een sportwagen over een onverharde weg rijden.
@@ -128,7 +152,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 
 > Straf ⇨ Categorie 1: een waarschuwing
 
-### Artikel 11 - Value of Life
+### Artikel 14 - No Value Of Life
 
 1. Er wordt verwacht dat jij waarde hecht aan het leven van jouw karakter en repecteert zoals in het echt.
 2. Enkele voorbeelden hiervan zijn maar niet beperkt tot:
@@ -143,21 +167,21 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 
 > Straf ⇨ Categorie 4: een ban van maximaal 3 dagen
 
-### Artikel 12 - New Life Rule
+### Artikel 15 - New Life Rule
 
 1. Als jouw karakter is te komen overlijden wordt er verwacht dat jij alle roleplay voor jouw dood vergeten bent.
 2. In het kader van lid 1 is het niet toegestaan om informatie te gebruiken die je hebt ontvangen van bijvoorbeeld vrienden na jouw dood.
 
 > Straf ⇨ Categorie 4: een ban van maximaal 3 dagen
 
-### Artikel 13 - Microfoon
+### Artikel 16 - Microfoon
 
 1. Het is tijdens het spelen ten allen tijden verplicht om een werkende microfoon te hebben waarin je duidelijk te verstaan bent.
 2. Indien jouw microfoon het spontaan begeeft of iets dergelijk is het zaak dat je dit via bijvoorbeeld /me of via discord vermeld aan de andere partij.
 
 > Straf ⇨ Categorie 1: een waarschuwing
 
-### Artikel 14 - Nederlandse Taal
+### Artikel 17 - Nederlandse Taal
 
 1. Er wordt van spelers verwacht de Nederlandse of Engelse taal te beheersen. Indien iemand de Nederlandse of Engelse taal niet beheerst is deze persoon niet welkom op de server.
 2. Het is niet toegestaan om andere talen dan Nederlands of Engels op een provocerende manier te gebruiken in een roleplay scenario.
@@ -166,14 +190,14 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 
 > Straf ⇨ Categorie 1: een waarschuwing
 
-### Artikel 15 - Reporting
+### Artikel 18 - Reporting
 
 1. De in-game functie om spelers te rapporteren (/report) is alleen gediend om gebruikt te worden in gevallen dat dit ter plekke opgelost kan worden. Het is niet de bedoeling om voor eigen rechter te gaan spelen.
 2. Bij een overtreding van een regel van een andere speler is het altijd zaak dat er een report of een ticket in de Springbank support discord wordt gemaakt met voldoende bewijsmateriaal indien nodig.
 3. Indien je een report maakt in-game is het de bedoeling dat je dit beschouwt als OOC-informatie. Je mag dus ook niet met anderen delen dat jij een report hebt gemaakt of het tegen de persoon zelf zeggen.
 4. Het is niet toegestaan om misbruik te maken van de /report functionaliteit om onterecht voordeel te behalen.
 
-### Artikel 16 - Karakter breken (ooc)
+### Artikel 19 - Out Of Character
 
 1. Het is niet toegestaan om je karakter te breken door OOC-informatie te gebruiken in-game.
 2. Enkele voorbeelden hiervan zijn maar niet beperkt tot:
@@ -183,7 +207,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 
 > Straf ⇨ Categorie 1: een waarschuwing
 
-### Artikel 17 - Alternatieve karakters
+### Artikel 20 - Alternatieve karakters
 
 1. Het is niet toegestaan om gebruik te maken van alternatieve accounts ('alt accounts') om enig voordeel te behalen
 2. Enkele voorbeelden hiervan zijn maar niet beperkt tot:
@@ -193,13 +217,13 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 	
 > Straf ⇨ Categorie 6: een ban van maximaal 1 maand
 
-### Artikel 18 - Voertuigen in gebouwen
+### Artikel 21 - Voertuigen in gebouwen
 
 1. Het is niet toegestaan met voertuigen gebouwen te betreden die daar niet voor bedoeld zijn.
 
 > Straf ⇨ Categorie 1: een waarschuwing
 
-### Artikel 20 - Kledingregels
+### Artikel 22 - Kledingregels
 
 1. Het is niet toegestaan om de standaard-outfit te dragen tijdens roleplay scenario's. In het begin krijg je een menu waar je dit kan aanpassen en mocht dat onverhoopt niet lukken wordt er verwacht dat jij naar een kledingwinkel gaat.
 2. Het is niet toegestaan om doorzichtige lichaamsdelen zoals armen, benen of torso te hebben.
@@ -208,28 +232,14 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 
 > Straf ⇨ Categorie 1: een waarschuwing
 
-### Artikel 21 - Impersonatie overheidsmedewerker
+### Artikel 23 - Impersonatie overheidsmedewerker
 
 1. Het is niet toegestaan om jezelf te vermommen als een overheidsmedewerker en/of te suggereren dat je een overheidsmedewerker bent.
 2. Het is toegestaan om kogel- en steekwerende vesten te dragen zolang dit geen verwijzing heeft naar een overheidsdienst.
 
 > Straf ⇨ Categorie 2: een ban van maximaal 1 dag
 
-### Artikel 24 - VDM
-
-1. Het is niet toegestaan om je voertuig als geweldsmiddel te gebruiken.
-2. Indien iemand moedwillig wordt aangereden met een snelheid hoger dan 40 km/u wordt dit beschouwt als poging tot doodslag of poging tot moord afhankelijk van de situatie.
-
-> Straf ⇨ Categorie 4: een ban van maximaal 3 dagen
-
-### Artikel 25 - RDM
-
-1. Het is niet toegestaan om zonder goede aanleiding iemand van het leven te beroven. Dit wordt verstaan onder Random Deathmatch ('RDM')
-2. Mocht het in hetzelfde tijdsbestek vaker gebeuren dat een persoon zonder goede aanleiding mensen van het leven beroofd kan een staflid besluiten om het gebruikte wapen in beslag te nemen.
-
-> Straf ⇨ Categorie 4: een ban van maximaal 3 dagen
-
-### Artikel 26 - Belediging
+### Artikel 24 - Belediging
 
 1. Het is niet toegestaan om aanstootgevende teksten te plaatsen of uit te spreken op welke mogelijke manier dan ook.
 2. Enkele voorbeelden hiervan zijn maar niet beperkt tot:
@@ -245,7 +255,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 
 > Straf ⇨ Categorie 2: een ban van maximaal 1 dag
 
-### Artikel 26 - Pitten
+### Artikel 25 - Pitten
 
 1. Indien je een voertuig inzet om een zogenoemde pit uit te voeren is dit alleen toegestaan als de snelheid lager is dan 100 km/u en moet dit op een verantwoorde wijze gaan.
 2. Het is niet toegestaan om een pit uit te voeren met een voertuig wat veel kleiner of lichter is als het voertuig dat gepit word.
@@ -254,7 +264,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 
 ## Overtredingen - Criminele activiteiten
 
-### Artikel 27 - Overvallen & Oplichten
+### Artikel 26 - Overvallen & Oplichten
 
 1. Het is alleen toegestaan om iemand te overvallen en/of te bestelen indien deze persoon bezig is met criminele activiteiten.
 2. Onder criminele activiteiten in deze context worden onder andere de volgende voorbeelden verstaan:
@@ -274,7 +284,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 
 > Straf ⇨ Categorie 3: een ban van maximaal 2 dagen
 
-### Artikel 28 - Criminaliteit & Ambtenaren
+### Artikel 27 - Criminaliteit & Ambtenaren
 
 1. Voor overheidsmedewerkers is het niet toegestaan om zich op welke manier dan ook bezig te houden met illegale praktijken als dit niet ten behoeve is van de uitvoering van hun baan. Dit is op beoordeling van een staflid.
 2. Organisaties die van toepassing zijn op lid 1 zijn:
@@ -294,21 +304,21 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 
 > Straf ⇨ Categorie 5: een ban van maximaal 1 week
 
-### Artikel 29 - Overheidsvoertuigen
+### Artikel 28 - Overheidsvoertuigen
 
 1. Het is alleen toegestaan om overheidsvoertuigen te besturen indien jij in dienst bent bij de desbetreffende overheidsdienst.
 2. Een uitzondering op lid 1 is wanneer de diefstal van een overheidsvoertuig en het eventueel besturen hiervan ten behoeve is van een goed roleplay scenario.
 
 > Straf ⇨ Categorie 2: een ban van maximaal 1 dag
 
-### Artikel 30 - Juist gebruik van baan voertuigen
+### Artikel 29 - Juist gebruik van baan voertuigen
 
 1. Het is verplicht om gebruik te maken van het voertuig wat je hebt gekregen van de werkgever indien dit van toepassing is.
 2. Het is niet toegestaan om voertuigen verleend door legale werkgevers te gebruiken voor illegale praktijken.
 
 > Straf ⇨ Categorie 1: een waarschuwing
 
-### Artikel 31 - Overval Regels
+### Artikel 30 - Overval Regels
 
 1. Als er een actieve overval is mogen alleen politieagenten aankoppelen aan de overval als hun al <b>voor</b> de originele overvalmelding in de stad waren.
 2. Er geldt een uitzondering op lid 1 voor leden van de dienst speciale interventies.
@@ -317,7 +327,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 
 > Straf ⇨ Categorie 2: een ban van maximaal 1 dag
 
-### Artikel 32 - Wraak en liquidaties
+### Artikel 31 - Wraak en liquidaties
 
 1. Het is alleen toegestaan om iemand te liquideren als het slachtoffer in kennis is van de reden hierachter. Het is dus de bedoeling dat dit aan het slachtoffer duidelijk wordt gemaakt <b>voor</b> hij geliquideerd wordt.
 2. Als je van het leven bent beroofd is niet toegestaan om in de komende 24 uur na deze actie mee te doen aan eventuele wraakacties op de persoon en/of groep die jou van het leven heeft beroofd.
@@ -325,7 +335,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 > Straf ⇨ Categorie 2: een ban van maximaal 1 dag
 
 
-### Artikel 33 - Gedrag tegen overheidsmedewerkers
+### Artikel 32 - Gedrag tegen overheidsmedewerkers
 
 1. Het is niet toegestaan om personeel van de ambulancezorg te vermoorden, beledigen of dergelijk.
 2. Er wordt verwacht dat je een eerlijke en realistische blik geeft op jouw verwondingen als je geholpen wordt door de ambulancezorg.
@@ -344,7 +354,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 
 > Straf ⇨ Categorie 2: een ban van maximaal 1 dag
 
-### Artikel 34 - Basis criminele organisaties
+### Artikel 33 - Basis criminele organisaties
 
 1. Met de term 'criminele organisaties' worden alle officiele groeperingen bedoeld.
 2. Op het moment mogen criminele organisaties maximaal 10 leden hebben. Dit is exclusief leden die een proefperiode begaan bij een criminele organisatie en nog niet officieel zijn opgenomen binnen de organisatie.
@@ -353,18 +363,18 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 5. Een samenwerking tussen criminele organisaties dient altijd gemeld te worden bij het managementteam of onderwereld coordinator.
 6. Bij overtreding van lid 4 en/of 5 zullen de betreffende organisaties in de basis een straf van de eerste categorie krijgen. Indien het vaker voorkomt wordt deze straf logischerwijs opgeschaald naar een officiele waarschuwing voor alle betrokken criminele organisaties.
 
-### Artikel 35 - Gedrag criminele organisaties
+### Artikel 34 - Gedrag criminele organisaties
 
 1. Van criminele organisaties (zoals benoemd in artikel 34 - basis criminele organisaties) wordt verwacht dat zij een voorbeeldige roleplay neerzetten.
 2. Indien leden van een criminele organisatie opmerkelijk veel in de aandacht komt bij het stafteam (op een negatieve manier) kan het managementteam contact opnemen met het leiderschap van de organisatie over de toekomst van dit lid en/of leden.
 3. Wanneer het managementteam van mening is dat een criminele organisatie niet past binnen het profiel bijvoorbeeld door veel officiele groepswaarschuwingen of individuele straffen kunnen zij besluiten om een passende strafmaatregel op te leggen tegen (alle) leden van de betreffende criminele organisatie.
 4. Het beheer behoudt zich het recht om in het uiterste geval in lid 3 een criminele organisatie te schorsen wegens extreem wangedrag.
 
-### Artikel 39 - Regels criminele organisaties
+### Artikel 35 - Regels criminele organisaties
 
 1. Het is niet toegestaan om 112-meldingen te maken in de buurt van huizen van criminele organisaties met het doel om ze uit te lokken of hun in de problemen te werken.
 
-### Artikel 40 - Winkel- en bankovervallen
+### Artikel 36 - Winkel- en bankovervallen
 
 1. Het is niet toegestaan om een overval te starten van 11:30 tot 12:00 ('s middags), 17:30 tot 18:00 ('s avonds) en 01:30 tot 02:00 ('s nachts). Dit heeft te maken met de ingeplande server restarts.
 > Straf ⇨ Categorie 1: een waarschuwing
@@ -372,7 +382,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 3. Het is niet toegestaan om iemand als gijzelaar in te zetten als dit een kennis van jou is. Dit moet dus een onbekend persoon zijn die jij op een eerlijke manier hebt ontvoerd.
 > Straf ⇨ Categorie 4: een ban van maximaal 3 dagen
 
-### Artikel 41 - Campen
+### Artikel 37 - Campen
 
 1. Het is niet toegestaan om te campen op een locatie betrokken bij illegale praktijken met de intentie om bijvoorbeeld mensen te overvallen of te vermoorden.
 2. Onder lid 1 wordt verstaan: wanneer jij verdacht lang binnen 100 meter van een locatie bent zonder goede aanleiding.
@@ -381,7 +391,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 
 ## Overige bepalingen
 
-### Artikel 42 - Bodycams
+### Artikel 38 - Bodycams
 
 1. Het gebruik van body- en/of dashcam beelden in een roleplay scenario is alleen toegestaan indien deze aan de volgende voorwaarden voldoet:
     * Overheidsmedewerkers dienen een bodycam te dragen om het te kunnen gebruiken
@@ -391,7 +401,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 
 > Straf ⇨ Categorie 1: een waarschuwing
 
-### Artikel 45 - Herkenning
+### Artikel 39 - Herkenning
 
 1. Het is alleen toegestaan om iemand aan zijn/haar stem te herkennen indien dit onder de volgende voorwaarden voldoet:
     * Je moet de persoon daadwerkelijk kennen. Het herkennen van een stem van een content creator is bijvoorbeeld niet toegestaan.
@@ -403,12 +413,12 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 
 > Straf ⇨ Categorie 2: een ban van maximaal 1 dag
 
-### Artikel 46 - Streamsniping
+### Artikel 40 - Streamsniping
 
 1. Het is niet toegestaan om informatie te gebruiken die je hebt verkregen uit een livestream van een content creator. Als je actief deze persoon opzoekt, probeert te benaderen of ons op een andere manier duidelijk wordt dat jij informatie verkrijgt via een livestream zal je een straf krijgen volgens de 5e categorie.
 
 
-### Artikel 51 - Wisselen van baan
+### Artikel 41 - Wisselen van baan
 
 1. De volgende wachttijden zijn van toepassing indien je wilt wisselen van baan:
 | Van | Naar | Wachttijd |
@@ -420,7 +430,15 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 2. Een uitzondering op de in lid 1 benoemde wachttijden kan worden genomen door het managementteam.
 3. Het is voor de leiding van overheidsorganisaties en criminele organisaties de verantwoordelijkheid om toezicht te houden op deze wachttijden.
 
-### Artikel 55 - Refunds
+### Artikel 42 - Real life trading
+
+1. Het is nooit toegestaan om goederen in Springbank (in de breedste zin) te verkopen, kopen of ruilen tegen echt geld en/of goederen buiten het spel om. 
+2. Hieronder wordt ook het aanbieden of vragen naar verstaan.
+
+> Straf ⇨ Categorie 7: een permanente
+
+### Artikel 43 - Refunds
 
 1. Refunds worden alleen gegeven indien er genoeg bewijsmateriaal aanwezig is waaruit blijkt dat je betreffende voorwerpen, valuta of dergelijk op een oneerlijke manier kwijt bent geraakt. Het admin- en het managementteam behouden zich het recht om een beslissing te maken op basis van ontbrekend bewijs, server logs of dergelijk. 
 2. Indien het admin- en/of managementteam besluiten dat de betreffende voorwerpen, valuta of dergelijk is verloren door eigen schuld kan de refund worden afgekeurd.
+

@@ -339,7 +339,7 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 1. Bij verkeersovertredingen in het algemeen, zonder verdere specificatie van zwaardere misdrijven, wordt een boete van €500,- per geval opgelegd.
 2. De dienstdoende agent kan afhankelijk van de aard van de overtreding ervoor kiezen om een waarschuwing te geven in plaats van een boete.
 
-### Artikel III-2 Gevaar / hinder zonder ongeval (5 WVW)
+### Artikel III-2 Roekeloos rijgedrag (5 WVW)
 
 1. Er is sprake van schuldig gedrag in het verkeer wanneer iemand gevaar of mogelijke hinder veroorzaakt op de openbare weg.
 2. Het rijbewijs kan ook worden ingevorderd op basis van de inschatting van de dienstdoende agent.
@@ -463,7 +463,15 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 1. Wanneer iemand tijdens deelname aan het verkeer de wettelijk bepaalde snelheden niet in acht neemt, wordt deze persoon als schuldig beschouwd.
 2. Op alle landelijke wegen (snelwegen) is het toegestaan om maximaal 130 km/u te rijden. Op alle overige wegen is het toegestaan om maximaal 80 km/u te rijden.
 3. Er geldt een meetcorrectie van 5 kilometer en bij de eerste 5 kilometer te hard rijden blijft de overtreding onbestraft.
-4. Er geldt een geldboete van 100 EUR per km/u te hard.
+4. Straftabel snelheidsovertredingen:
+| *Te snel* | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **0-50km/h** |   |  | € 1000,-  |
+| **51-100km/h**  |   | | € 2000,-  |
+| **101-150km/h**  |   | | € 3000,-  |
+| **151/200km/h**  |   | | € 4000,-  |
+| **vanaf 200km/h**  |   | 20 uur | € 5000,-  |
+5. Bij een snelheidsovertreding waar de gemeten snelheid sneller is dan 200km/h kan de dienstdoende ambtenaar besluiten om het betreffende of meer rijbewijzen in te vorderen.
 
 ### Artikel III-12 Voertuigeisen
 
@@ -871,7 +879,7 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 ### Artikel VIII-2 Belediging (266 SR)
 
 1. Schuldig is een persoon die opzettelijk een ander belegdigt op straffe van een boete van €1200,- per geval.
-2. Wanneer de belediging opzettelijk is geuit richting een ambtenaar in functie wordt de boete met 33% verhoogd.
+2. Wanneer de belediging opzettelijk is geuit richting een ambtenaar in functie wordt de boete uit lid 1 verdubbeld.
 
 ### Artikel VIII-3 Opgeven valse gegevens (435 SR)
 
@@ -950,16 +958,16 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 
 | Bij wet geclassificeerde verboden domeinen |
 |---|
-| Luchtmachtbasis |
-| Vliegdekschip |
 | Gevangenis |
+| Legerbasis |
+| Vliegdekschip |
 |  |
 
 |  |Celstraf  | Taakstraf  | boete  |
 |---|---|---|---|
-|  Eerste Veroordeling | 18 maanden |  | € 10000,-  |
-| Tweede Veroordeling  | 36 maanden | | € 15000,-  |
-| Meerdere Veroordelingen  | 54 maanden |  | € 20000,-  |
+|  Eerste Veroordeling | 18 maanden |  | € 7500,-  |
+| Tweede Veroordeling  | 36 maanden | | € 10000,-  |
+| Meerdere Veroordelingen  | 54 maanden |  | € 15000,-  |
 
 ### Artikel VIII-12 Bescherming van in het wild levende diersoorten
 
@@ -1112,4 +1120,4 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 5. Het bewijs dat de verdachte het telastegelegde feit heeft gepleegd, kan worden aangenomen op alleen het proces-verbaal van een opsporingsambtenaar.
 6. Feiten of omstandigheden van algemene bekendheid behoeven geen bewijs.
 
----------------------
+<sub><sup>Laatste revisie: 11/03/2023 - Bron: github.com/Tedeapolis/wet-en-regelgeving</sup></sub>

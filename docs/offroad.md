@@ -17,6 +17,7 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * BMW X5 E53 2005 Sport Package
  * BMW X5M F85
  * BMW X6M
+ * BMW X6
  * BMW X7 2021
  * BMW X7M 70i
  * Brabus G900
@@ -25,6 +26,8 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Journey 1969 Camper
  * Lamborghini Urus
  * Maserati Levante
+ * Mercedes GLE 53 AMG
+ * Mercedes GLS Brabus
  * Porsche Cayenne Turbo 2022
  * Range Rover Hamann
  * Range Rover Velar 2018
