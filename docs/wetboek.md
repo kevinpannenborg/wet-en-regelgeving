@@ -290,6 +290,7 @@
 | **Tweede Veroordeling**  | 13 maanden  |  | € 12500,-  |
 | **Meerdere Veroordelingen**  | 18 maanden  |  | € 15000,-  |
 
+
 ### Artikel II-8 Vernieling (350 SR)
 
 1. Een persoon wordt als schuldig beschouwd wanneer deze opzettelijk en wederrechtelijk een goed dat geheel of gedeeltelijk toebehoort aan een ander, vernielt, beschadigt, onbruikbaar maakt of wegneemt.
