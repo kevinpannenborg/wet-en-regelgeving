@@ -260,7 +260,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 1. Indien je een voertuig inzet om een zogenoemde pit uit te voeren is dit alleen toegestaan als de snelheid lager is dan 100 km/u en moet dit op een verantwoorde wijze gaan.
 2. Het is niet toegestaan om een pit uit te voeren met een voertuig wat veel kleiner of lichter is als het voertuig dat gepit word.
 3. Het is niet toegestana om een pit uit te voeren op een motor aangezien de kans op dodelijk letsel te groot is. Dit wordt gezien als VDM (Artikel 24 - VDM)
-3. Politieagenten van de landelijke eenheid verkeerspolitie en de dienst speciale interventies hebben een specialistische training gehad en mogen op uitzondering en alleen met toestemming van het OC een pit uitvoeren tot snelheden van 125 km/u
+3. Politieagenten van de landelijke eenheid verkeerspolitie en de dienst speciale interventies hebben een specialistische training gehad en mogen op uitzondering en alleen met toestemming van het OC een pit uitvoeren tot snelheden van 130 km/u
 
 ## Overtredingen - Criminele activiteiten
 
