@@ -464,13 +464,15 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 2. Op alle landelijke wegen (snelwegen) is het toegestaan om maximaal 130 km/u te rijden. Op alle overige wegen is het toegestaan om maximaal 80 km/u te rijden.
 3. Er geldt een meetcorrectie van 5 kilometer en bij de eerste 5 kilometer te hard rijden blijft de overtreding onbestraft.
 4. Straftabel snelheidsovertredingen:
-| *Te snel* | *Celstraf*  | *Taakstraf*  | *boete*  |
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
 | **0-50km/h** | |  | € 1000,- |
 | **51-100km/h** | | | € 2000,- |
 | **101-150km/h** | | | € 3000,- |
 | **151/200km/h** | | | € 4000,- |
 | **vanaf 200km/h** | | 20 uur | € 5000,- |
+
 5. Bij een snelheidsovertreding waar de gemeten snelheid sneller is dan 200km/h kan de dienstdoende ambtenaar besluiten om het betreffende of meer rijbewijzen in te vorderen.
 
 ### Artikel III-12 Voertuigeisen
