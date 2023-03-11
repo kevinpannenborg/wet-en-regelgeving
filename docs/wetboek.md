@@ -284,6 +284,7 @@
 2. Het opzettelijk benadelen van de gezondheid wordt gelijkgesteld aan mishandeling.
 3. Wanneer het slachtoffer een ambtenaar in functie betreft, zal de straf met 33% worden verhoogd.
 4. Indien er sprake is van een poging tot zware mishandeling, wordt de straf met 33% verminderd.
+
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
 |  **Eerste Veroordeling** | 9 maanden  |  | € 10000,-  |
