@@ -466,11 +466,11 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 4. Straftabel snelheidsovertredingen:
 | *Te snel* | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **0-50km/h** |   |  | € 1000,-  |
-| **51-100km/h**  |   | | € 2000,-  |
-| **101-150km/h**  |   | | € 3000,-  |
-| **151/200km/h**  |   | | € 4000,-  |
-| **vanaf 200km/h**  |   | 20 uur | € 5000,-  |
+| **0-50km/h** | |  | € 1000,- |
+| **51-100km/h** | | | € 2000,- |
+| **101-150km/h** | | | € 3000,- |
+| **151/200km/h** | | | € 4000,- |
+| **vanaf 200km/h** | | 20 uur | € 5000,- |
 5. Bij een snelheidsovertreding waar de gemeten snelheid sneller is dan 200km/h kan de dienstdoende ambtenaar besluiten om het betreffende of meer rijbewijzen in te vorderen.
 
 ### Artikel III-12 Voertuigeisen
@@ -969,41 +969,11 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 | Tweede Veroordeling  | 36 maanden | | € 10000,-  |
 | Meerdere Veroordelingen  | 54 maanden |  | € 15000,-  |
 
-### Artikel VIII-12 Bescherming van in het wild levende diersoorten
-
-1. Onder beschermd wordt verstaan: diersoorten die wettelijk beschermd zijn, bijvoorbeeld omdat zij bedreigd worden in hun voortbestaan of beschermd moeten worden tegen overmatige benutting.
-2. Een persoon is schuldig wanneer deze weet of behoort te weten dat het verboden is om jacht te maken op dieren die bij wet beschermd zijn en bij zich draagt.
-3. Een persoon is schuldig wanneer deze een beschermd dier bij zich draagt met het oogmerk het dier te verkopen.
-4. Een persoon is schuldig wanneer deze een beschermd dier vervoert in een voertuig.
-
-| Bij wet geclassificeerde beschermde dieren |
-|---|
-| Haaien |
-| Schildpadden |
-
-|***`1-5 dieren`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** |   |  35 uur  | €5.000 |
-| **Tweede Veroordeling**  | 27 maanden |  | €8.500 |
-| **Meerdere Veroordelingen**  | 45 maanden |   | €10.000 |
-
-|***`6-40 dieren`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** |  | 55 uur  | €7.500 |
-| **Tweede Veroordeling**  | 36 maanden |  | €12.500 |
-| **Meerdere Veroordelingen**  | 54 maanden |   | €15.000 |
-
-|***`>40 dieren`***   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** | 27 maanden |   | €10.000 |
-| **Tweede Veroordeling**  | 60 maanden |  | €15.000 |
-| **Meerdere Veroordelingen**  | 90 maanden |   | €20.000 |
-
-### Artikel VIII-13 Recht op bijstand Advocaat tijdens huiszoeking (artikel 99a sv)
+### Artikel VIII-12 Recht op bijstand Advocaat tijdens huiszoeking (artikel 99a sv)
 
 1. De verdachte is bevoegd zich tijdens het doorzoeken van plaatsen door zijn advocaat te doen bijstaan, zonder dat de doorzoeking daardoor mag worden opgehouden.
 
-### Artikel VIII-17 Misdrijven tegen de openbare orde (131 SR)
+### Artikel VIII-13 Misdrijven tegen de openbare orde (131 SR)
 
 1. Hij die in het openbaar, mondeling of bij geschrift of afbeelding, tot enig strafbaar feit of tot gewelddadig optreden tegen het openbaar gezag opruit, wordt gestraft volgens onderstaande tabel. 
 
@@ -1013,7 +983,7 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 | Tweede Veroordeling  | 20 maanden |  | € 5000,-  |
 | Meerdere Veroordelingen  | 40 maanden |  | € 10000,-  |
 
-### Artikel VIII-18 Misdrijven tegen het openbaar gezag (189 SR)
+### Artikel VIII-14 Misdrijven tegen het openbaar gezag (189 SR)
 
 1. Een persoon wordt als schuldig beschouwd wanneer hij opzettelijk iemand helpt die schuldig is aan of verdacht wordt van een misdrijf om te ontsnappen aan de opsporing of aanhouding door ambtenaren in functie.
 2. Een persoon wordt als schuldig beschouwd wanneer hij opzettelijk voorwerpen vernietigt of ontneemt om de inbeslagname door een ambtenaar in functie te voorkomen of te hinderen.
