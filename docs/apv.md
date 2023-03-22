@@ -320,12 +320,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 
 ### Artikel 30 - Overval Regels
 
-1. Als er een actieve overval is mogen alleen politieagenten aankoppelen aan de overval als hun al <b>voor</b> de originele overvalmelding in de stad waren.
-2. Er geldt een uitzondering op lid 1 voor leden van de dienst speciale interventies.
-3. Lid 1 is niet van toepassing indien iemand minder dan vijf minuten voor de melding de server heeft verlaten en terug komt, bijvoorbeeld door een crash. Dit moet dan wel aantoonbaar zijn.
-4. Het is de verplichting van de OC ('Operationeel Centrum') van de politiedienst om een juiste en realistische inschatting te maken hoeveel agenten er nodig zijn voor een overval.
-
-> Straf ⇨ Categorie 2: een ban van maximaal 1 dag
+1. Het is de verplichting van de OC ('Operationeel Centrum') van de politiedienst om een juiste en realistische inschatting te maken hoeveel agenten er nodig zijn voor een overval.
 
 ### Artikel 31 - Wraak en liquidaties
 
@@ -374,12 +369,16 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 
 1. Het is niet toegestaan om 112-meldingen te maken in de buurt van huizen van criminele organisaties met het doel om ze uit te lokken of hun in de problemen te werken.
 
-### Artikel 36 - Winkel- en bankovervallen
+### Artikel 36 - Overvallen
 
 1. Het is niet toegestaan om een overval te starten van 11:30 tot 12:00 ('s middags), 17:30 tot 18:00 ('s avonds) en 01:30 tot 02:00 ('s nachts). Dit heeft te maken met de ingeplande server restarts.
 > Straf ⇨ Categorie 1: een waarschuwing
 2. Er wordt verwacht dat er bij een overval door alle partijen logisch nagedacht wordt en realistische beslissingen worden gemaakt. Hierbij is het belangrijk om zaken zoals no value of life, fail RP, powergaming in het achterhoofd te houden om het voor alle betrokken partijen zo leuk mogelijk te houden.
 3. Het is niet toegestaan om iemand als gijzelaar in te zetten als dit een kennis van jou is. Dit moet dus een onbekend persoon zijn die jij op een eerlijke manier hebt ontvoerd.
+4. Eventueel NPC's die aanwezig zijn bij een winkeloverval tellen niet mee als gijzelaars.
+5. Het gebruik maken van outside hostages is alleen toegestaan indien er bewijs geleverd kan worden dat deze ook daadwerkelijk gijzelgenomen zijn.
+6. Het is niet toegestaan om een onderhandelaar te gijzelen.
+
 > Straf ⇨ Categorie 4: een ban van maximaal 3 dagen
 
 ### Artikel 37 - Campen
@@ -389,9 +388,17 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 
 > Straf ⇨ Categorie 2: een ban van maximaal 1 dag
 
+### Artikel 38 - Rippen
+
+1. Het is niet toegestaan om dezelfde persoon binnen een uur meerdere malen te overvallen en/of te gijzelen.
+2. Uitzondering op lid 1 is wanneer het slachtoffer in kwestie binnen het uur zijn kleding zodanig heeft veranderd dat hij niet meer te herkennen valt als eerst.
+3. Het is alleen toegestaan om iemand te rippen als deze bezig is met criminele praktijken zoals aangegeven in artikel 26 - overvallen & oplichten.
+
+> Straf ⇨ Categorie 2: een ban van maximaal 1 dag
+
 ## Overige bepalingen
 
-### Artikel 38 - Bodycams
+### Artikel 39 - Bodycams
 
 1. Het gebruik van body- en/of dashcam beelden in een roleplay scenario is alleen toegestaan indien deze aan de volgende voorwaarden voldoet:
     * Overheidsmedewerkers dienen een bodycam te dragen om het te kunnen gebruiken
@@ -401,7 +408,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 
 > Straf ⇨ Categorie 1: een waarschuwing
 
-### Artikel 39 - Herkenning
+### Artikel 40 - Herkenning
 
 1. Het is alleen toegestaan om iemand aan zijn/haar stem te herkennen indien dit onder de volgende voorwaarden voldoet:
     * Je moet de persoon daadwerkelijk kennen. Het herkennen van een stem van een content creator is bijvoorbeeld niet toegestaan.
@@ -413,12 +420,12 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 
 > Straf ⇨ Categorie 2: een ban van maximaal 1 dag
 
-### Artikel 40 - Streamsniping
+### Artikel 41 - Streamsniping
 
 1. Het is niet toegestaan om informatie te gebruiken die je hebt verkregen uit een livestream van een content creator. Als je actief deze persoon opzoekt, probeert te benaderen of ons op een andere manier duidelijk wordt dat jij informatie verkrijgt via een livestream zal je een straf krijgen volgens de 5e categorie.
 
 
-### Artikel 41 - Wisselen van baan
+### Artikel 42 - Wisselen van baan
 
 1. De volgende wachttijden zijn van toepassing indien je wilt wisselen van baan:
 | Van | Naar | Wachttijd |
@@ -430,14 +437,14 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 2. Een uitzondering op de in lid 1 benoemde wachttijden kan worden genomen door het managementteam.
 3. Het is voor de leiding van overheidsorganisaties en criminele organisaties de verantwoordelijkheid om toezicht te houden op deze wachttijden.
 
-### Artikel 42 - Real life trading
+### Artikel 43 - Real life trading
 
 1. Het is nooit toegestaan om goederen in Springbank (in de breedste zin) te verkopen, kopen of ruilen tegen echt geld en/of goederen buiten het spel om. 
 2. Hieronder wordt ook het aanbieden of vragen naar verstaan.
 
 > Straf ⇨ Categorie 7: een permanente
 
-### Artikel 43 - Refunds
+### Artikel 44 - Refunds
 
 1. Refunds worden alleen gegeven indien er genoeg bewijsmateriaal aanwezig is waaruit blijkt dat je betreffende voorwerpen, valuta of dergelijk op een oneerlijke manier kwijt bent geraakt. Het admin- en het managementteam behouden zich het recht om een beslissing te maken op basis van ontbrekend bewijs, server logs of dergelijk. 
 2. Indien het admin- en/of managementteam besluiten dat de betreffende voorwerpen, valuta of dergelijk is verloren door eigen schuld kan de refund worden afgekeurd.

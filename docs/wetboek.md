@@ -1085,7 +1085,8 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 	3. verklaringen van een getuige. Onder verklaring van een getuige wordt verstaan de bij het onderzoek gedane mededeling van feiten of omstandigheden, welke hij zelf waargenomen of ondervonden heeft. Het bewijs dat de verdachte het telastegelegde feit heeft begaan, kan niet uitsluitend worden aangenomen op de verklaring van één getuige;
 	4. verklaringen van een deskundige. Onder verklaring van een deskundige wordt verstaan de bij het onderzoek afgelegde verklaring en oordeel op basis van zijn wetenschap en kennis;
 	5. schriftelijke stukken;
-	6. (audio)visueel bewijs, zoals bodycambeelden of foto's.
+    6. een verklaring van een ambtenaar onder ambtseed;
+	7. (audio)visueel bewijs, zoals bodycambeelden of foto's.
 3. Onder schriftelijke stukken worden verstaan:
 	1. processen-verbaal en andere geschriften, in de wettelijke vorm opgemaakt door colleges en personen, die daartoe bevoegd zijn, met mededeling van feiten of omstandigheden, door hen zelf waargenomen of ondervonden;
 	2. verslagen van deskundigen met het antwoord op de opdracht die aan hen is verleend tot het verstrekken van informatie of het doen van onderzoek, gebaseerd op wat hun wetenschap en kennis hen leren omtrent datgene wat aan hun oordeel onderworpen is;
@@ -1094,4 +1095,4 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 5. Het bewijs dat de verdachte het telastegelegde feit heeft gepleegd, kan worden aangenomen op alleen het proces-verbaal van een opsporingsambtenaar.
 6. Feiten of omstandigheden van algemene bekendheid behoeven geen bewijs.
 
-<sub><sup>Laatste revisie: 11/03/2023 - Bron: github.com/Tedeapolis/wet-en-regelgeving</sup></sub>
+<sub><sup>Laatste revisie: 23/03/2023 - Bron: github.com/Tedeapolis/wet-en-regelgeving</sup></sub>
