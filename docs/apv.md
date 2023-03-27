@@ -36,7 +36,8 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
     * Het dwingen van politiemedewerkers om een bewusteloos persoon te fouilleren en items zoals wapens af te nemen en af te geven aan jou of iemand anders.
     * Het gebruik maken van persoonlijke keybinds om bijvoorbeeld /me te doen.
     * Het zonder aanleiding overvallen van medewerkers van de ambulancezorg om bijvoorbeeld wapens te krijgen.
-    * Het controleren van kofferbakken zonder enige aanleiding
+    * Het controleren van kofferbakken zonder enige aanleiding.
+	* Meerdere handelingen in één moment uitvoeren. Voorbeeld: */me pakt porto af, doet tape op mond en bind vast* moeten drie verschillende */me*'s zijn.
 
 ### Artikel 2 - Cheats
 
@@ -243,23 +244,23 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 
 1. Het is niet toegestaan om aanstootgevende teksten te plaatsen of uit te spreken op welke mogelijke manier dan ook.
 2. Enkele voorbeelden hiervan zijn maar niet beperkt tot:
-	* Schelden met hedendaagse ziektes (7 dagen ban)
-	* Racistische of discriminerende opmerkingen (30 dagen ban)
-	* Seksuele opmerkingen
+	* Schelden met hedendaagse ziektes __7 dagen ban__
+	* Opmerkingen op basis van geslacht, geloofsovertuiging, seksuele voorkeur, ras en gelijke discriminerende opmerkingen __30 dagen ban__
+	* Seksuele opmerkingen __7 dagen ban__
+	* Toxic, uitlokkend of haatzaaiende opmerkingen __een ban van maximaal 1 dag__
 	* Andere ongepaste opmerkingen
-	* Toxic, uitlokkend of haatzaaiende opmerkingen
 3. Lid 1 en 2 zijn ook van toepassing op de volgende teksten:
 	* Naam van jouw steam account
 	* Naam van jouw discord account
 	* Naam van jouw in-game karakter
+4. In het geval van lid 4 geldt dat er een (tijdelijke) permanente ban volgens categorie 7 wordt gegeven totdat de betreffende tekst is aangepast.
 
-> Straf ⇨ Categorie 2: een ban van maximaal 1 dag
 
 ### Artikel 25 - Pitten
 
 1. Indien je een voertuig inzet om een zogenoemde pit uit te voeren is dit alleen toegestaan als de snelheid lager is dan 100 km/u en moet dit op een verantwoorde wijze gaan.
 2. Het is niet toegestaan om een pit uit te voeren met een voertuig wat veel kleiner of lichter is als het voertuig dat gepit word.
-3. Het is niet toegestana om een pit uit te voeren op een motor aangezien de kans op dodelijk letsel te groot is. Dit wordt gezien als VDM (Artikel 24 - VDM)
+3. Het is niet toegestaan om een pit uit te voeren op een motor aangezien de kans op dodelijk letsel te groot is. Dit wordt gezien als VDM (Artikel 24 - VDM)
 3. Politieagenten van de landelijke eenheid verkeerspolitie en de dienst speciale interventies hebben een specialistische training gehad en mogen op uitzondering en alleen met toestemming van het OC een pit uitvoeren tot snelheden van 130 km/u
 
 ## Overtredingen - Criminele activiteiten
@@ -442,7 +443,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 1. Het is nooit toegestaan om goederen in Springbank (in de breedste zin) te verkopen, kopen of ruilen tegen echt geld en/of goederen buiten het spel om. 
 2. Hieronder wordt ook het aanbieden of vragen naar verstaan.
 
-> Straf ⇨ Categorie 7: een permanente
+> Straf ⇨ Categorie 7: een permanente ban
 
 ### Artikel 44 - Refunds
 
