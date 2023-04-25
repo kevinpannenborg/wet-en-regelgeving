@@ -369,6 +369,10 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 ### Artikel 35 - Regels criminele organisaties
 
 1. Het is niet toegestaan om 112-meldingen te maken in de buurt van huizen van criminele organisaties met het doel om ze uit te lokken of hun in de problemen te werken.
+2. Het is voor criminele organisaties niet toegestaan om samen te werken. Hieronder wordt verstaan maar niet beperkt tot:
+	* Zonder goede aanleiding samen in een portofoon zitten;
+	* Samen overvallen plegen;
+	* Samen scenario's neerzetten waarbij er voordeel voor beide groeperingen wordt behaald;
 
 ### Artikel 36 - Overvallen
 
@@ -394,6 +398,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 1. Het is niet toegestaan om dezelfde persoon binnen een uur meerdere malen te overvallen en/of te gijzelen.
 2. Uitzondering op lid 1 is wanneer het slachtoffer in kwestie binnen het uur zijn kleding zodanig heeft veranderd dat hij niet meer te herkennen valt als eerst.
 3. Het is alleen toegestaan om iemand te rippen als deze bezig is met criminele praktijken zoals aangegeven in artikel 26 - overvallen & oplichten.
+4. Het is toegestaan om iemand te rippen bij een illegaal verkooppunt als je deze persoon ziet verkopen aan een NPC of de animatie doen.
 
 > Straf ⇨ Categorie 2: een ban van maximaal 1 dag
 
