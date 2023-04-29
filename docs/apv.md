@@ -263,6 +263,13 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 3. Het is niet toegestaan om een pit uit te voeren op een motor aangezien de kans op dodelijk letsel te groot is. Dit wordt gezien als VDM (Artikel 24 - VDM)
 3. Politieagenten van de landelijke eenheid verkeerspolitie en de dienst speciale interventies hebben een specialistische training gehad en mogen op uitzondering en alleen met toestemming van het OC een pit uitvoeren tot snelheden van 130 km/u
 
+### Artikel 45 - Driveby
+
+1. Het is voor overheidsmedewerkers niet toegestaan om te schieten vanuit een voertuig indien hun een wapen dragen voor de uitvoering van hun dienst.
+2. Een uitzondering op lid 1 is voor leden van de DSI met een specialistische training.
+
+> Straf ⇨ Categorie 2: een ban van maximaal 1 dag
+
 ## Overtredingen - Criminele activiteiten
 
 ### Artikel 26 - Overvallen & Oplichten
