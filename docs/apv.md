@@ -31,7 +31,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
     * Gebruik maken van je portofoon of telefoon terwijl je aan het zwemmen bent.
     * Stelen van voertuigen zonder toepassende roleplay.
     * Misbruik maken van de emote-functionaliteit.
-	* Meth koken in een rijdend voertuig.
+	* Meth koken in een rijdend voertuig of terwijl je in een tunnel staat.
     * Een agent ontvoeren om een signalering te verwijderen of om iets te bekijken in het politiesysteem (MEOS).
     * Het dwingen van politiemedewerkers om een bewusteloos persoon te fouilleren en items zoals wapens af te nemen en af te geven aan jou of iemand anders.
     * Het gebruik maken van persoonlijke keybinds om bijvoorbeeld /me te doen.
