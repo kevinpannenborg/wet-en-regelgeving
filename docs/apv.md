@@ -123,6 +123,8 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 ### Artikel 10 - Combat-stashing
 
 1. Indien je een voorwerp of dergelijk hebt gestolen van iets of iemand is het niet toegestaan om dit binnen tien minuten na het betreffende scenario op te bergen in een onbereikbare plek, zoals bijvoorbeeld een huis of een kofferbak in de garage.
+2. Indien je een wapen hebt gebruik mag je deze niet stashen in de eerste 10 minuten.
+3. Zolang je je nog bevind in het scenario (neem bijvoorbeeld een achtervolging na het gebruik van je wapen) tellen deze 10 minuten niet. De 10 minuten gelden pas vanaf het moment dat het scenario afgelopen is.
 
 > Straf ⇨ Categorie 3: een ban van maximaal 2 dagen
 
