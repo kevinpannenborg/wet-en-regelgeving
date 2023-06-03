@@ -289,6 +289,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 	* Voorwerpen en/of dienstwapens die bij de uitvoering van een overheidsbaan toebehoren.
 	* Voertuigen in elke vorm
 	* Onder dwang iemand zijn huis betreden en leegroven
+4. Elke vorm van scammen en/of oplichten is niet toegestaan.
 
 > Straf ⇨ Categorie 3: een ban van maximaal 2 dagen
 
