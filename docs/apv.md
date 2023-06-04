@@ -272,6 +272,12 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 
 > Straf ⇨ Categorie 2: een ban van maximaal 1 dag
 
+### Artikel 46 - Bedrijven
+
+1. Het is niet toegestaan voor groeperingen die bij elkaar horen om twee bedrijven in hun bezit te hebben.
+
+> Straf ⇨ Categorie 5: een ban van maximaal 1 week
+
 ## Overtredingen - Criminele activiteiten
 
 ### Artikel 26 - Overvallen & Oplichten
@@ -409,6 +415,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 2. Uitzondering op lid 1 is wanneer het slachtoffer in kwestie binnen het uur zijn kleding zodanig heeft veranderd dat hij niet meer te herkennen valt als eerst.
 3. Het is alleen toegestaan om iemand te rippen als deze bezig is met criminele praktijken zoals aangegeven in artikel 26 - overvallen & oplichten.
 4. Het is toegestaan om iemand te rippen bij een illegaal verkooppunt als je deze persoon ziet verkopen aan een NPC of de animatie ziet doen.
+5. Het is niet toegestaan om eigen geld te rippen dat wordt ingeleverd bij een waardetransport.
 
 > Straf ⇨ Categorie 2: een ban van maximaal 1 dag
 
