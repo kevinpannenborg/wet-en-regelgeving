@@ -412,6 +412,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 ### Artikel 38 - Rippen
 
 1. Het is niet toegestaan om dezelfde persoon binnen een uur meerdere malen te overvallen en/of te gijzelen.
+   - Dit geld alleen voor drugs op een pluk locatie en het vervalt als de persoon een totaal andere outfit aantrekt.
 2. Uitzondering op lid 1 is wanneer het slachtoffer in kwestie binnen het uur zijn kleding zodanig heeft veranderd dat hij niet meer te herkennen valt als eerst.
 3. Het is alleen toegestaan om iemand te rippen als deze bezig is met criminele praktijken zoals aangegeven in artikel 26 - overvallen & oplichten.
 4. Het is toegestaan om iemand te rippen bij een illegaal verkooppunt als je deze persoon ziet verkopen aan een NPC of de animatie ziet doen.
