@@ -417,6 +417,8 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 4. Het is alleen toegestaan om iemand te rippen als deze bezig is met criminele praktijken zoals aangegeven in artikel 26 - overvallen & oplichten.
 5. Het is toegestaan om iemand te rippen bij een illegaal verkooppunt als je deze persoon ziet verkopen aan een NPC of de animatie ziet doen.
 6. Het is niet toegestaan om eigen geld te rippen dat wordt ingeleverd bij een waardetransport.
+7. Het is niet toegestaan om iemand te rippen en daarna te vermoorden.
+
 
 > Straf ⇨ Categorie 2: een ban van maximaal 1 dag
 
