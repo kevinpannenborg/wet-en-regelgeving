@@ -360,6 +360,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 9. Het is alleen toegestaan om een overheidsmedewerker te ontvoeren indien de aantallen in dienst corresponderen met de specificatie hieronder:
     * Politiekorps: Per 6 agenten in dienst mag er 1 agent ontvoerd worden
     * Ambulancezorg: Per 8 ambulancemedewerkers in dienst mag er 1 ontvoerd worden.
+    * MEC/ANWB: Per 6 medewerkers in dienst mag er 1 ontvoerd worden.
 10. Het is toegestaan om iemand van het politiekorps te ontvoeren om een voertuig uit de impound te forceren. De volgende voorwaarden zijn van toepassing:
     * Je verliest het recht op een advocaat of bijstand van hOVJ. (Hulp officier van justitie)
     * Het openstaande bedrag voor de inbeslagname dient betaald te worden
