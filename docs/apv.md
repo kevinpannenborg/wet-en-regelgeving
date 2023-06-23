@@ -275,6 +275,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 ### Artikel 46 - Bedrijven
 
 1. Het is niet toegestaan voor groeperingen die bij elkaar horen om twee bedrijven in hun bezit te hebben.
+2. Het is niet toegestaan om tijdens een eigen transport de wapens / geld te rippen van waardetransport.
 
 > Straf ⇨ Categorie 5: een ban van maximaal 1 week
 
