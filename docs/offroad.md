@@ -35,6 +35,8 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Porsche Macan 2019
  * Trekker
  * Jeep Grand Cherokee Supercharger
+ * Range Rover Sport SVR
+ * Bmw X5M 2020
 
 ### Off-road wegen
  * 3XB Lucky Buggy
@@ -60,4 +62,9 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Ford raptor 2019
  * Ford F450 platinum
  * Dodge Ram TRX 2021
+ * Hummer H1 Street Custom
+ * Brabus 900 Crawler 2023
+ * Mercedes g63 AMG 6x6
+ * Ktm exc 530
+ * RMOD DODGE RAM T-REX
 
