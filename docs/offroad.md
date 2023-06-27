@@ -31,6 +31,10 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Porsche Cayenne Turbo 2022
  * Range Rover Hamann
  * Range Rover Velar 2018
+ * Mercedes Benz EQA 2022
+ * Porsche Macan 2019
+ * Trekker
+ * Jeep Grand Cherokee Supercharger
 
 ### Off-road wegen
  * 3XB Lucky Buggy
@@ -48,10 +52,12 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Kamacho
  * Mercedes G63 2022
  * Mercedes G65 AMG 2012
- * Range Rover Velar 2018 MET offroad banden
  * Rebel Raid
  * Toyota Hilux Vigo 2012-2015
  * Toyota Land Cruiser
  * Toyota Tundra 2022 Limited
  * Volkswagen Amarok
+ * Ford raptor 2019
+ * Ford F450 platinum
+ * Dodge Ram TRX 2021
 
