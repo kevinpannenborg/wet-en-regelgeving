@@ -159,7 +159,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 
 1. Er wordt verwacht dat jij waarde hecht aan het leven van jouw karakter en repecteert zoals in het echt.
 2. Enkele voorbeelden hiervan zijn maar niet beperkt tot:
-	* Indien er een vuurwapen op je gericht binnen 50 meter wordt er verwacht dat je blijft staan en werk je mee.
+	* Indien er een vuurwapen op je gericht binnen de voice cirkel van "schreeuwen" wordt er verwacht dat je blijft staan en werk je mee.
 	* Terwijl je onder schot staat is het niet de bedoeling dat je deze benadert op welke manier dan ook. Er wordt verwacht dat je meewerkt en waarde hecht aan je leven.
 	* Met een helikopter en/of vliegtuig vlak boven de grond vliegen of tussen gebouwen door
 	* Het is niet toegestaan om weerstand te bieden tegen een slag- of steekwapen wanneer deze binnen een meter van jou is. Buiten een meter is het wel toegestaan om een vuurwapen te trekken.
@@ -298,6 +298,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 	* Voorwerpen en/of dienstwapens die bij de uitvoering van een overheidsbaan toebehoren.
 	* Voertuigen in elke vorm
 	* Onder dwang iemand zijn huis betreden en leegroven
+	* Het leegroven/stelen van een gangkluis
 4. Elke vorm van scammen en/of oplichten is niet toegestaan.
 
 > Straf ⇨ Categorie 3: een ban van maximaal 2 dagen
